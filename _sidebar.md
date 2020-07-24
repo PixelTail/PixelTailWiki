@@ -1,4 +1,3 @@
 * [主页](index.md)
-
-* # PixelTail
+* PixelTail
     - [- 什么是 PixelTail？]
