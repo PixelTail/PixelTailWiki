@@ -1,4 +1,4 @@
-# PixelTail Wiki Readme
+# PixelTail Wiki
 
 欢迎来到PixelTail Wiki(PixelTail 百科)页面！你可以在这里对PixelTail管理组正在做的事情有一定的了解，以帮助你更快的适应这样一个可爱的Furry服务器。
 
