@@ -1,3 +1,3 @@
-* [首页](index.md)
+* [PixelTail Wiki](index.md)
 * **PixelTail**
     - [- 什么是 PixelTail？]
