@@ -1,3 +1,3 @@
 # PixelTail Wiki
 
- 是一个用来记录
+ PixelTail Wiki 是PixelTail管理组带领的官方百科项目
