@@ -6,7 +6,7 @@
 
 ### 关于Wiki
 
-**PixelTail Wiki** 由玩家与管理组成员共同撰写而成，可以通过连接：[wiki.pixeltail.cn](wiki.pixeltail.cn) 进行访问
+**PixelTail Wiki** 由玩家与管理组成员共同撰写而成，可以通过连接：[wiki.pixeltail.cn](https://wiki.pixeltail.cn) 进行访问
 
 ### Licence
 
