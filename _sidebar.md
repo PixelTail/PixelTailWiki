@@ -1,5 +1,5 @@
-* [**PixelTail Wiki**](index.md)
-* **PixelTail**
-    - [- 什么是 PixelTail？](introduction.md)
-* **进入游戏**
-    - [- 给萌新的入服指南](getting-start/newbie.md)
+* [简体中文(WIP)](/zh-cn/index.md)
+
+* [English(WIP)](/en/index.md)
+
+* [正體中文(WIP)](/zh-tw/index.md)
