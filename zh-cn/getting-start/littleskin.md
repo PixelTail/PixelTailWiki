@@ -13,8 +13,7 @@
 在“快速配置启动器”框中，可以看到“本站的 `Yggdrasil API 认证服务器地址`：https://mcskin.littleservice.cn/api/yggdrasil
 ”
 
-[!WARNING|style:callout]
-玩家的ID只能为26个大小写英文字母和符号“_”，如果使用其他字符，会导致插件无法识别ID！！！
+!> 玩家的ID只能为26个大小写英文字母和符号“_”，如果使用其他字符，会导致插件无法识别ID！！！
 
 ### 2.配置启动器
 ![5.png](https://i.loli.net/2020/07/26/1eOj5PNS8HWsfbq.png)
