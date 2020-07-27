@@ -48,7 +48,6 @@
         '/zh-tw': 'zh-tw/_404.md'
       },
       formatUpdated: '{YYYY}/{MM}/{DD} {HH}:{mm}',
-      formatUpdated: function(time) {return time;},
 
       search: {
       maxAge: 86400000, // 过期时间，单位毫秒，默认一天
@@ -90,7 +89,25 @@
         },
       },
 
-      
+      plugins: [
+            function(hook, vm) {
+              hook.beforeEach(function(html) {
+                var url =
+                'https://github.com/BillZhucn/PixelTailWiki/edit/master/' +
+                vm.route.file;
+                var editHtml = '[帮助我们完善本页面](' + url + ')\n';
+                
+                return (
+                  editHtml +
+                  ' \n' +
+                  html +
+                  '\n----\n' +
+                  '最后更新：{docsify-updated}'
+                  );
+                }
+              );
+            }
+          ]
  
     }
   </script>
