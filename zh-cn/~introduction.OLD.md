@@ -1,3 +1,5 @@
+<!-- need more discussion
+
 # PixelTail
 
 **PixelTail** 是一个针对Furry爱好者的Minecraft公益服务器。服务器的**周目更换**和**游戏模式**都会提前进行投票，并且根据投票结果进行准备和更换。通常，在Mojang更新最新版本的最后一个版本后不久，服务器会更换至该版本进行一段时间的体验和游玩。
