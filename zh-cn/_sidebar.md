@@ -14,7 +14,7 @@
 * **PixelTail故事集**
   - [- 世界建造计划]()
   - [- 大事纪时间轴]()
-  - [- Tail通讯录]()
+  - [- Tail通讯录](/zh-cn/story-collection/player/index.md)
 * **加入Wiki编写**
   - [- Markdown教程]()
   - [- 成为编者]()
