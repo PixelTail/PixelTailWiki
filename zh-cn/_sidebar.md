@@ -1,6 +1,7 @@
 * [**什么是 PixelTail Wiki？**](/zh-cn/index.md)
 * **欢迎来到PixelTail**
   - [- 什么是 PixelTail？](/zh-cn/introduction.md)
+  - [- PixelTail 服务器玩家守则](/zh-cn/rules.md)
 * **如何加入PixelTail**
   - [- 如何获取白名单？](/zh-cn/getting-start/whitelist.md)
   - [- 如何正确使用外置登录？](/zh-cn/getting-start/littleskin.md)
