@@ -21,7 +21,14 @@ module.exports = {
             { text: '捐助众筹', link: 'https://afdian.net/@PixelTail' }
         ],
         sidebar: [
-            ['/', '什么是PixelTail Wiki?'],
+            {
+                title: '欢迎来到PixelTail Wiki',
+                collapsable: true,
+                children:[    
+                    ['/', '什么是PixelTail Wiki?'],
+                    ['/wiki.md', '帮助我们完善PixelTail Wiki']
+                ]
+            },
             {
                 title: '欢迎来到PixelTail',
                 collapsable: true,
