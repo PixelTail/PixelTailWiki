@@ -3,7 +3,7 @@ module.exports = {
     base: '',
     ga: 'G-EL9XLR0RJR',
     head: [
-        ['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/BillZhucn/PixelTailWiki/master/favicon.ico' }]
+        ['link', { rel: 'icon', href: 'https://210-oss-ufile-cn.glowtree.cn/beehive%2F4%2Ffavicon.ico' }]
     ],
     serviceWorker: true,
     markdown: {
