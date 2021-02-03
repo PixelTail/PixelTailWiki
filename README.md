@@ -2,7 +2,7 @@
 <p align=center>
 <img src="https://img.shields.io/badge/poweredby-VuePress-brightgreen?style=for-the-badge"/>
 <a href="https://github.com/BillZhucn/PixelTailWiki/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/BillZhucn/PixelTailWiki?color=brightgreen&style=for-the-badge"></a>
-[![Build Status](https://travis-ci.com/BillZhucn/PixelTailWiki.svg?branch=master)](https://travis-ci.com/BillZhucn/PixelTailWiki)
+<img alt="Travis (.com) branch" src="https://img.shields.io/travis/com/BillZhucn/PixelTailWiki/master?style=for-the-badge">
 </p>
 
 ### 关于Wiki
