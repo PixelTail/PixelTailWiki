@@ -26,24 +26,53 @@ module.exports = {
                 collapsable: true,
                 children:[    
                     ['/', '什么是PixelTail Wiki?'],
-                    ['/wiki.md', '帮助我们完善PixelTail Wiki']
+                    ['/wiki.md', '加入PixelTail Wiki编写']
                 ]
             },
             {
-                title: '欢迎来到PixelTail',
+                title: '什么是PixelTail',
                 collapsable: true,
                 children: [
-                    ['/introduction.html', '什么是 PixelTail?'],
-                    ['/rules.html', '服务器游玩守则']
+                    ['whats-pixeltail/introduction.html', '简介'],
+                    ['whats-pixeltail/rules.html', '服务器玩家守则'],
+                    {
+                        title: '如何加入PixelTail',
+                        collapsable: true,
+                        children: [
+                            ['getting-start/whitelist.html', '成为Tails'],
+                            ['getting-start/littleskin.html', '配置外置登录'],
+                            ['getting-start/socialmedia.html', '群组信息']
+                        ]
+                    },
                 ]
             },
             {
-                title: '如何加入PixelTail',
+                title: "Golden Tails(黄金周目)",
                 collapsable: true,
                 children: [
-                    ['/getting-start/whitelist.html', '如何获取白名单?'],
-                    ['getting-start/littleskin.html', '如何配置外置登录?'],
-                    ['/getting-start/newbie.html', '写给萌新的入服指南']
+                    ['gold/intro.html', '黄金周目简介'],
+                    ['gold/content.html', '当前游玩内容简介'],
+                    ['gold/getting-start.html', '快速入门']
+                ]
+            },
+            {
+                title: "Neon(霓虹周目)",
+                collapsable: true,
+                children: [
+                    ['neon/intro.html', '霓虹周目简介'],
+                    ['neon/news-and-updates.html', '已公开的消息']
+                ]
+            },
+            {
+                title: "PixelTail故事集",
+                collapsable: true,
+                children: [
+                    ['story-collection/admin.html', '历届管理组名单'],
+                    ['story-collection/num.html', '数字周目'],
+                    ['story-collection/gold.html', '黄金周目'],
+                    ['story-collection/neon.html', '霓虹周目'],
+                    ['story-collection/builds.html', '建筑集'],
+                    ['story-collection/player/index.html', '玩家名录']
                 ]
             }
         ],
