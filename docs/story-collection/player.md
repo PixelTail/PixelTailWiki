@@ -5,4 +5,4 @@
 :::
 
 ### 0-9
- - [0wbillw0](/zh-cn/story-collection/player/0-9.md#0wbillw0)
+ - [0wbillw0](story-collection/player/0-9.html#0wbillw0)

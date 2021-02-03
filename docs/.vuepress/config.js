@@ -72,7 +72,7 @@ module.exports = {
                     ['story-collection/gold.html', '黄金周目'],
                     ['story-collection/neon.html', '霓虹周目'],
                     ['story-collection/builds.html', '建筑集'],
-                    ['story-collection/player/index.html', '玩家名录']
+                    ['story-collection/player.html', '玩家名录']
                 ]
             }
         ],
