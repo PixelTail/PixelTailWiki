@@ -1,7 +1,8 @@
 <h1 align=center>PixelTail Wiki</h1>
 <p align=center>
-<img src="https://img.shields.io/badge/poweredby-docsify-blue"/>
-<img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-brightgreen"/>
+<img src="https://img.shields.io/badge/poweredby-VuePress-brightgreen?style=for-the-badge"/>
+<a href="https://github.com/BillZhucn/PixelTailWiki/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/BillZhucn/PixelTailWiki?color=brightgreen&style=for-the-badge"></a>
+<a herf="https://travis-ci.com/BillZhucn/PixelTailWiki"><img alt="Build Status" src="https://travis-ci.com/BillZhucn/PixelTailWiki.svg?branch=master"></a>
 </p>
 
 ### 关于Wiki
