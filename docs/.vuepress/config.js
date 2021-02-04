@@ -19,7 +19,7 @@ module.exports = {
         nav: [
             { text: '皮肤站', link: 'https://skin.2-10.cn/' },
             {
-                text: '捐助我们',
+                text: '赞助我们',
                 items: [
                   { text: 'PixelTail', link: 'https://afdian.net/@PixelTail' },
                   { text: 'PixelTail-Neon', link: 'https://afdian.net/@PixelTailNeon' }
@@ -40,7 +40,7 @@ module.exports = {
                 collapsable: true,
                 children: [
                     ['whats-pixeltail/introduction.html', '简介'],
-                    ['whats-pixeltail/rules.html', '服务器玩家守则'],
+                    ['whats-pixeltail/rules.html', 'Tails公约'],
                     {
                         title: '如何加入PixelTail',
                         collapsable: true,
