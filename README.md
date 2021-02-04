@@ -1,7 +1,7 @@
 <h1 align=center>PixelTail Wiki</h1>
 <p align=center>
 <img src="https://img.shields.io/badge/poweredby-VuePress-brightgreen?style=for-the-badge"/>
-<a href="https://github.com/BillZhucn/PixelTailWiki/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/BillZhucn/PixelTailWiki?color=brightgreen&style=for-the-badge"></a>
+<a href="https://github.com/BillZhucn/PixelTailWiki/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/badge/LICENSE-CC--BY--NC--SA%204.0-brightgreen?style=for-the-badge"></a>
 <img alt="Travis (.com) branch" src="https://img.shields.io/travis/com/BillZhucn/PixelTailWiki/master?style=for-the-badge">
 </p>
 
