@@ -17,8 +17,14 @@ module.exports = {
         editLinks: true,
         editLinkText: '帮助我们完善本页面',
         nav: [
-            { text: '前往皮肤站', link: 'https://skin.2-10.cn/' },
-            { text: '捐助众筹', link: 'https://afdian.net/@PixelTail' }
+            { text: '皮肤站', link: 'https://skin.2-10.cn/' },
+            {
+                text: '捐助我们',
+                items: [
+                  { text: 'PixelTail', link: 'https://afdian.net/@PixelTail' },
+                  { text: 'PixelTail-Neon', link: 'https://afdian.net/@PixelTailNeon' }
+                ]
+            }
         ],
         sidebar: [
             {
