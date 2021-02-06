@@ -2,6 +2,16 @@ module.exports = {
     title: 'PixelTail Wiki',
     base: '',
     ga: 'G-EL9XLR0RJR',
+    plugins: [
+        [
+          '@vuepress/google-analytics',
+          {
+            'ga': 'UA-173388738-2' // UA-00000000-0
+          },
+          '@vuepress/active-header-links',
+          '@vuepress/back-to-top'
+        ]
+    ],
     head: [
         ['link', { rel: 'icon', href: 'https://210-oss-ufile-cn.glowtree.cn/beehive%2F4%2Ffavicon.ico' }]
     ],
