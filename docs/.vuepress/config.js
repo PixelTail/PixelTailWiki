@@ -21,6 +21,7 @@ module.exports = config({
     },
     themeConfig: {
         blog: false,
+        sidebarDepth: 2,
         pageInfo: false,
         comment: false,
         darkmode: 'auto-switch',
