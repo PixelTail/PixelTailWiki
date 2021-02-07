@@ -1,15 +1,13 @@
 module.exports = {
     title: 'PixelTail Wiki',
     base: '',
-    ga: 'G-EL9XLR0RJR',
     plugins: [
         [
           '@vuepress/google-analytics',
           {
             'ga': 'UA-173388738-2' // UA-00000000-0
           },
-          '@vuepress/active-header-links',
-          '@vuepress/back-to-top'
+          '@vuepress/active-header-links'
         ]
     ],
     head: [
