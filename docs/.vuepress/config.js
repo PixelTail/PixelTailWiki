@@ -1,4 +1,6 @@
-module.exports = {
+const { config } = require("vuepress-theme-hope");
+
+module.exports = config({
     title: 'PixelTail Wiki',
     base: '',
     plugins: [
@@ -6,8 +8,7 @@ module.exports = {
           '@vuepress/google-analytics',
           {
             'ga': 'UA-173388738-2' // UA-00000000-0
-          },
-          '@vuepress/active-header-links'
+          }
         ]
     ],
     head: [
@@ -19,6 +20,22 @@ module.exports = {
         externalLinks: { target: '_blank' }
     },
     themeConfig: {
+        blog: false,
+        themeColor: false,
+        pageInfo: false,
+        comment: false,
+        darkmode: 'auto-switch',
+        footer: [
+            {display: true},
+            {copyright: 'Copyright © PixelTail'}
+        ],
+        mdEnhance: {
+            enableAll: true,
+          },
+        pwa: false,
+        sidebarIcon: false,
+        breadcrumbIcon: false,
+        repoDisplay: false, 
         docsRepo: 'BillZhucn/PixelTailWiki',
         docsBranch: 'master',
         docsDir: 'docs',
@@ -94,4 +111,4 @@ module.exports = {
         smoothScroll: true
     },
     evergreen: false
-}
+});
