@@ -11,7 +11,7 @@
 |游戏版本|Java版 1.12.2|
 |游戏模式|模组-综合生存|
 |网络地图|`coming soon`|
-|JE版地址|`mc.pixeltail.cn`|
+|JE版地址|`mc.pixeltail.cn:62334`|
 
 
 整合包下载：
@@ -65,6 +65,9 @@ CrT2主要是为了解决拔刀剑无法合成的原因，因此加入了三个�
 
 ![yap9k8.png](https://s3.ax1x.com/2021/02/08/yap9k8.png)
 ![yapZmq.png](https://s3.ax1x.com/2021/02/08/yapZmq.png)
+
+【JEI可以找到，但无法正常合成：】
+
 ![yapMhF.png](https://s3.ax1x.com/2021/02/08/yapMhF.png)
 
 ## Banlist
