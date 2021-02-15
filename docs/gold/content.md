@@ -1,6 +1,6 @@
 # PixelTail GoldenTail 六周目
 
-经历了漫长的等待，PixelTail GoldenTail(黄金周目) 六周目终于即将上线啦！暂定于2021年2月9日14时开放白名单申请。
+经历了漫长的等待，PixelTail GoldenTail(黄金周目) 六周目终于上线啦！
 
 烦请各位仔细阅读本文，尤其是结尾的**本周目游玩注意事项**
 
