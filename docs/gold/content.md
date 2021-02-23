@@ -15,6 +15,10 @@
 
 
 整合包下载：
+::: warning 特别注意
+整合包中的ip并非现在使用的服务器ip！请修改成[周目信息](#周目信息)中提到的**JE版地址**！
+:::
+
 
 1. [完整版](https://210-oss-ufile-cn.glowtree.cn/beehive%2F4%2FPixelTail%E5%85%AD%E5%91%A8%E7%9B%AE%E6%95%B4%E5%90%88%28%E5%AE%8C%E6%95%B4%E7%89%88%29.zip)
 2. [精简版(仅包含必须模组和优化模组)](https://210-oss-ufile-cn.glowtree.cn/beehive%2F4%2FPixelTail%E5%85%AD%E5%91%A8%E7%9B%AE%E6%95%B4%E5%90%88%28%E5%8F%AA%E5%90%AB%E5%BF%85%E8%A6%81%E6%A8%A1%E7%BB%84+%E4%BC%98%E5%8C%96%E6%A8%A1%E7%BB%84%29%20v1.0.zip)
@@ -87,6 +91,7 @@ Banlist^[封禁物品列表]的使用主要是为了防止恶性bug的出现。
 |工业工作台 (Industrial Workbench)|:x:|:x:|
 |高级采矿机 (Advanced Miner)|:x:|:x:|
 |地形转换机 (Terraformer)|:x:|:x:|
+|五种储物箱|:x:|:x:|
 |AE2|||
 |迷你TNT (Tiny TNT)|:x:|:x:|
 |ME流体成型面板 (ME Fluid Formation Plane)|:x:|:x:|
