@@ -1,3 +1,7 @@
+---
+sidebarDepth: 0
+---
+
 ## 对外聊天群组：
 - [:penguin:QQ群](https://jq.qq.com/?_wv=1027&k=GK2hnNdP)
 - ......coming soon
