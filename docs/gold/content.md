@@ -10,7 +10,7 @@
 | :----------------: | :----------------: |
 |游戏版本|Java版 1.12.2|
 |游戏模式|模组-综合生存|
-|网络地图|`coming soon`|
+|网络地图|[`mc.pixeltail.cn:52333`](http://mc.pixeltail.cn:52333/)|
 |JE版地址|`mc.pixeltail.cn:62334`|
 
 
@@ -67,8 +67,10 @@
 #### CraftTweaker2
 CrT2主要是为了解决拔刀剑无法合成的原因，因此加入了三个合成公式：
 
+
 ![yap9k8.png](https://s3.ax1x.com/2021/02/08/yap9k8.png)
 ![yapZmq.png](https://s3.ax1x.com/2021/02/08/yapZmq.png)
+
 
 【JEI可以找到，但无法正常合成：】
 
