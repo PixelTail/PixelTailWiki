@@ -1,8 +1,8 @@
 <h1 align=center>PixelTail Wiki</h1>
 <p align=center>
-<img src="https://img.shields.io/badge/poweredby-VuePress-brightgreen?style=for-the-badge"/>
+<a href="https://vuepress.vuejs.org/"><img src="https://img.shields.io/badge/poweredby-VuePress-brightgreen?style=for-the-badge"></a>
 <a href="https://github.com/BillZhucn/PixelTailWiki/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/badge/LICENSE-CC--BY--NC--SA%204.0-brightgreen?style=for-the-badge"></a>
-<img alt="Travis (.com) branch" src="https://img.shields.io/travis/com/BillZhucn/PixelTailWiki/master?style=for-the-badge">
+<a href="https://travis-ci.com/BillZhucn/PixelTailWiki"><img alt="Travis (.com) branch" src="https://img.shields.io/travis/com/BillZhucn/PixelTailWiki/master?style=for-the-badge"></a>
 </p>
 
 ### 关于Wiki
@@ -11,4 +11,4 @@
 
 ### Licence
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议进行许可。</a>
