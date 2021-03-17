@@ -24,6 +24,8 @@ module.exports = config({
         sidebarDepth: 1,
         pageInfo: false,
         comment: false,
+        baseLang: 'zh-CN',
+        hostname: 'wiki.pixeltail.cn',
         darkmode: 'auto-switch',
         footer: [
             {display: true},
