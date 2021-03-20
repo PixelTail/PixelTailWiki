@@ -1,6 +1,7 @@
 <h1 align=center>PixelTail Wiki</h1>
 <p align=center>
 <a href="https://vuepress.vuejs.org/"><img src="https://img.shields.io/badge/poweredby-VuePress-brightgreen?style=for-the-badge"></a>
+<a herf="https://vuepress-theme-hope.github.io/"><img src="https://img.shields.io/badge/Theme-hope-brightgreen?style=for-the-badge"></a>
 <a href="https://github.com/BillZhucn/PixelTailWiki/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/badge/LICENSE-CC--BY--NC--SA%204.0-brightgreen?style=for-the-badge"></a>
 <a href="https://travis-ci.com/BillZhucn/PixelTailWiki"><img alt="Travis (.com) branch" src="https://img.shields.io/travis/com/BillZhucn/PixelTailWiki/master?style=for-the-badge"></a>
 </p>
