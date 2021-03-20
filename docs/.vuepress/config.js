@@ -24,6 +24,7 @@ module.exports = config({
         sidebarDepth: 1,
         pageInfo: false,
         comment: false,
+        baseLang: 'zh-CN',
         darkmode: 'auto-switch',
         footer: [
             {display: true},
