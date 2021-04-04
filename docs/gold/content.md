@@ -10,7 +10,8 @@
 | :----------------: | :----------------: |
 |游戏版本|Java版 1.12.2|
 |游戏模式|模组-综合生存|
-|网络地图|[`mc.pixeltail.cn:52333`](http://mc.pixeltail.cn:52333/)|
+|网络地图|[`GoldenMap.pixeltail.org`](http://goldenmap.pixeltail.org/)|
+|JE版测试地址|`mc.pixeltail.org`|
 |JE版地址|`mc.pixeltail.cn:62334`|
 
 
