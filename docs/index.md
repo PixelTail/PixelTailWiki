@@ -10,7 +10,7 @@ PixelTail Wiki 不包含Minecraft游戏的介绍与说明。如果你想了解Mi
 
 在PixelTail Wiki，界面分为三部分，分别为「**索引栏**」「**正文**」和「**导航栏**」。
 
-![jiemian.png](https://i.loli.net/2021/04/07/zatJcgdEFrPWyOm.png)
+![](https://i.loli.net/2021/04/07/zatJcgdEFrPWyOm.png)
 
 「**索引栏**」在页面的左侧，罗列了整个PixelTail Wiki的档案分类与文章标题。「什么是PixelTail」收录了PixelTail的简介与文化；「如何加入Pixeltail」是指引你进入游戏游玩的领航员；「Golden Tails（黄金周目）」与「Neon（霓虹周目）」都详细介绍了不同周目的信息；「PixelTail故事集」则记录下了许多值得记载下来的大事纪与Tails的名单。
 
@@ -22,7 +22,7 @@ PixelTail Wiki 不包含Minecraft游戏的介绍与说明。如果你想了解Mi
 
 PixelTail Wiki 是每一位Tails都可以编辑的百科全书哦。「PixelTail故事集」中关于玩家故事与建筑名录都可以自行书写自己的故事、添加自己的图片，PixelTail Wiki 将会在审核后收录所有认真书写的所有故事。
 
-在开始之前，你需要学习基础的**Markdown语法规则**以完成页面的基本格式编写；具体内容会在下一篇文章「加入PixelTail Wiki编写」中详细教学。
+在开始之前，你需要学习基础的**Markdown语法规则**以完成页面的基本格式编写；具体内容会在下一篇文章「[加入PixelTail Wiki编写](/wiki)」中详细教学。
 
 使用Markdown语法完成了你的故事后，你可以根据页面提示，点击`编辑此页`进入PixelTail Wiki的Github页面。在注册或登录了Github账号后，你可以创建一个[``Github issue``](https://github.com/BillZhucn/PixelTailWiki/issues/new),或者在相应页面点击`编辑此页`后直接进行修改并发送一个`Pull Request`，像素尾巴管理组将尽快进行审核与反馈。
 
