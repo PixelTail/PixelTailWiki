@@ -107,7 +107,7 @@ module.exports = config({
                     ['story-collection/player.html', '玩家名录']
                 ]
             },
-            ['PTNW.html', 'PixelTailNetWork'],
+            ['PTNW.html', 'PixelTailNetwork'],
         ],
         lastUpdated: '最后更新',
         smoothScroll: true
