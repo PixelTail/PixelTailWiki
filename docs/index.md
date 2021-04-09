@@ -10,7 +10,7 @@ PixelTail Wiki 不包含Minecraft游戏的介绍与说明。如果你想了解Mi
 
 在PixelTail Wiki，界面分为三部分，分别为「**索引栏**」「**正文**」和「**导航栏**」。
 
-![](https://i.loli.net/2021/04/07/zatJcgdEFrPWyOm.png)
+![Wiki.png](https://i.loli.net/2021/04/09/CGTNKIVsxtQHSn8.png)
 
 「**索引栏**」在页面的左侧，罗列了整个PixelTail Wiki的档案分类与文章标题。「什么是PixelTail」收录了PixelTail的简介与文化；「如何加入Pixeltail」是指引你进入游戏游玩的领航员；「Golden Tails（黄金周目）」与「Neon（霓虹周目）」都详细介绍了不同周目的信息；「PixelTail故事集」则记录下了许多值得记载下来的大事纪与Tails的名单。
 
