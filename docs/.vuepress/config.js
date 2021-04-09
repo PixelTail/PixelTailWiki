@@ -67,15 +67,15 @@ module.exports = config({
                 children: [
                     ['whats-pixeltail/introduction.html', '简介'],
                     ['whats-pixeltail/rules.html', 'Tails公约'],
-                    {
-                        title: '如何加入PixelTail',
-                        collapsable: true,
-                        children: [
-                            ['getting-start/whitelist.html', '成为Tails'],
-                            ['getting-start/authlib-injector.html', '配置外置登录'],
-                            ['getting-start/socialmedia.html', '群组信息']
-                        ]
-                    },
+                ]
+            },
+            {
+                title: '如何加入PixelTail',
+                collapsable: true,
+                children: [
+                    ['getting-start/whitelist.html', '成为Tails'],
+                    ['getting-start/authlib-injector.html', '配置外置登录'],
+                    ['getting-start/socialmedia.html', '群组信息']
                 ]
             },
             {
