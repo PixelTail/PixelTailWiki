@@ -24,7 +24,7 @@ PixelTail像素尾巴建立于2019年6月，如果你是一只友善的毛茸茸
 
 所以，欢迎你回到家中，接下来就请坐到这桌前，与我们一起续写PixelTail的故事吧！
 
-![wiki.png](https://i.loli.net/2021/04/07/NO7jD5ZCFJSArq6.png)
+![wiki.png](https://oss.landnet.cloud/beehive%2F4%2F%E8%BF%99%E5%B0%B1%E6%98%AFPixelTail.png)
 
 ::: tip 注：
 加入PixtailTail的兽迷，我们称之为Tails。
