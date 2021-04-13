@@ -94,9 +94,9 @@ Markdown的语法十分简单，常用的标记符号不超过十个，用于日
 
 例如：
 ```Markdown
-[![黄金周目](https://i.loli.net/2021/02/04/dfjw54bUGBmZPoV.png)](gold/intr/)
+[![黄金周目](https://oss.landnet.cloud/beehive%2F4%2FGold.PNG)](gold/intr/)
 ```
-[![黄金周目](https://i.loli.net/2021/02/04/dfjw54bUGBmZPoV.png)](gold/intro/)
+[![黄金周目](https://oss.landnet.cloud/beehive%2F4%2FGold.PNG)](gold/intro/)
 
 ### 链接
 
@@ -110,40 +110,39 @@ Markdown的语法十分简单，常用的标记符号不超过十个，用于日
 ```Markdown
 [皮肤站链接](skin.2-10.cn "PIXELTAIL X 2-10宣传组")
 ```
-[这是个链接](skin.2-10.cn "PIXELTAIL X 2-10宣传组联合呈上")
+[皮肤站链接](skin.2-10.cn "PIXELTAIL X 2-10宣传组联合呈上")
 
-#### 网址和Email地址
+#### Email地址
 
-使用尖括号可以很方便地把URL或者email地址变成可点击的链接。
+使用尖括号可以很方便地把email地址变成可点击的链接。
 ```Markdown
-<wiki.pixeltail.cn>
 <billzhu@pixeltail.cn>
 ```
 渲染效果如下：
-<wiki.pixeltail.cn>
 <billzhu@pixeltail.cn>
 
 #### 带格式化的链接
 [强调](#markdown-基本语法) 链接, 在链接语法前后增加星号。 要将链接表示为代码，请在方括号中添加反引号。
 ```
-I love supporting the **[PixelTail](wiki.pixeltail.cn)**.
-This is the *[How to help us with PixelTail Wiki](wiki.pixeltail.cn/wiki)*.
+I love supporting the **[PixelTail](wiki.pixeltail.org)**.
+This is the *[How to help us with PixelTail Wiki](wiki.pixeltail.org/wiki)*.
 See the section on [`markdown-基本语法`](#markdown-基本语法).
 ```
 渲染效果如下：
-I love supporting the **[PixelTail](wiki.pixeltail.cn)**.
-This is the *[How to help us with PixelTail Wiki](wiki.pixeltail.cn/wiki)*.
+I love supporting **[PixelTail](wiki.pixeltail.org)**.
+This is the *[How to help us with PixelTail Wiki](wiki.pixeltail.org/wiki)*.
 See the section on [`markdown-基本语法`](#markdown-基本语法).
 
 ### 列表
 
 #### 有序列表
+
 |原文本|渲染后|
 | :----------------: | :----------------: |
-|`1. First item`<br>`2. Second item`<br>`3. Third item`<br>`4. Fourth item`|<ol><li>First item</li><li>Second item</li><li>Third item</li><li>Fourth item</li></ol>|
-|`1. First item`<br>`1. Second item`<br>`1. Third item`<br>`1. Fourth item`|<ol><li>First item</li><li>Second item</li><li>Third item</li><li>Fourth item</li></ol>|
-|`1. First item`<br>`8. Second item`<br>`3. Third item`<br>`5. Fourth item`|<ol><li>First item</li><li>Second item</li><li>Third item</li><li>Fourth item</li></ol>|
-|`1. First item`<br>`2. Second item`<br>`3. Third item`<br>`    1. Indented item`<br>`    2. Indented item`<br>`4. Fourth item`|<ol><li>First item</li><li>Second item</li><li>Third item<ol><li>Indented item</li><li>Indented item</li></ol></li><li>Fourth item</li></ol>|
+|<p align="left">`1. First item`<br>`2. Second item`<br>`3. Third item`<br>`4. Fourth item`</p>|<ol><li>First item</li><li>Second item</li><li>Third item</li><li>Fourth item</li></ol>|
+|<p align="left">`1. First item`<br>`1. Second item`<br>`1. Third item`<br>`1. Fourth item`</p>|<ol><li>First item</li><li>Second item</li><li>Third item</li><li>Fourth item</li></ol>|
+|<p align="left">`1. First item`<br>`8. Second item`<br>`3. Third item`<br>`5. Fourth item`</p>|<ol><li>First item</li><li>Second item</li><li>Third item</li><li>Fourth item</li></ol>|
+|<p align="left">`1. First item`<br>`2. Second item`<br>`3. Third item`<br><code>&nbsp;&nbsp;&nbsp;&nbsp;- Indented item</code><br><code>&nbsp;&nbsp;&nbsp;&nbsp;- Indented item</code></br>`4. Fourth item`</p>|<ol><li>First item</li><li>Second item</li><li>Third item<ol><li>Indented item</li><li>Indented item</li></ol></li><li>Fourth item</li></ol>|
 
 当然，有时候，当Markdown语法不能很好实现的时候（比如必须把所有内容放在一行），最好的办法就是使用HTML：
 
@@ -176,10 +175,10 @@ See the section on [`markdown-基本语法`](#markdown-基本语法).
 要创建无序列表，只要在每个列表项前面添加破折号 (-)、星号 (*) 或加号 (+) 即可。缩进一个或多个列表项可创建嵌套列表。
 |原文本|渲染后|
 | :----------------: | :----------------: |
-|`- First item`<br>`- Second item`<br>`- Third item`<br>`- Fourth item`|<ul><li>First item</li><li>Second item</li><li>Third item</li><li>Fourth item</li></ul>|
-|`* First item`<br>`* Second item`<br>`* Third item`<br>`* Fourth item`|<ul><li>First item</li><li>Second item</li><li>Third item</li><li>Fourth item</li></ul>|
-|`+ First item`<br>`+ Second item`<br>`+ Third item`<br>`+ Fourth item`|<ul><li>First item</li><li>Second item</li><li>Third item</li><li>Fourth item</li></ul>|
-|`- First item`<br>`- Second item`<br>`- Third item`<br><code>    - Indented item</code><br><code>    - Indented item</code><br>`- Fourth item`|<ul><li>First item</li><li>Second item</li><li>Third item<ul><li>Indented item</li><li>Indented item</li></ul></li><li>Fourth item</li></ul>|
+|<p align="left">`- First item`<br>`- Second item`<br>`- Third item`<br>`- Fourth item`</p>|<ul><li>First item</li><li>Second item</li><li>Third item</li><li>Fourth item</li></ul>|
+|<p align="left">`* First item`<br>`* Second item`<br>`* Third item`<br>`* Fourth item`</p>|<ul><li>First item</li><li>Second item</li><li>Third item</li><li>Fourth item</li></ul>|
+|<p align="left">`+ First item`<br>`+ Second item`<br>`+ Third item`<br>`+ Fourth item`</p>|<ul><li>First item</li><li>Second item</li><li>Third item</li><li>Fourth item</li></ul>|
+|<p align="left">`- First item`<br>`- Second item`<br>`- Third item`<br><code>&nbsp;&nbsp;&nbsp;&nbsp;- Indented item</code><br><code>&nbsp;&nbsp;&nbsp;&nbsp;- Indented item</code><br>`- Fourth item`</p>|<ul><li>First item</li><li>Second item</li><li>Third item<ul><li>Indented item</li><li>Indented item</li></ul></li><li>Fourth item</li></ul>|
 
 同样，无序列表在很多情况下也可以使用HTML代码进行实现：
 
@@ -399,7 +398,7 @@ See the section on [`markdown-基本语法`](#markdown-基本语法).
 #### 可做转义的字符:
 |符号|名称(in English)|
 | :----------------: | :----------------: | 
-|\|backslash|
+|\\|backslash|
 |`|backtick (see also escaping backticks in code)|
 |*|asterisk|
 |_|underscore|

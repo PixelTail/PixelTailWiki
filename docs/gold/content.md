@@ -10,9 +10,10 @@
 | :----------------: | :----------------: |
 |游戏版本|Java版 1.12.2|
 |游戏模式|模组-综合生存|
-|网络地图|[`GoldenMap.pixeltail.org`](http://goldenmap.pixeltail.org/)|
 |JE版测试地址|`mc.pixeltail.org`|
 |JE版地址|`mc.pixeltail.cn:62334`|
+|网络地图|[`ddns.pixeltail.cn:52334`](http://ddns.pixeltail.cn:52334/)|
+|网络地图测试地址|[`GoldenMap.pixeltail.org`](http://goldenmap.pixeltail.org/)|
 
 
 整合包下载：
@@ -20,7 +21,7 @@
 整合包中的ip并非现在使用的服务器ip！请修改成[周目信息](#周目信息)中提到的**JE版地址**！
 
 最低游玩配置：2核心2线程  4GRAM 10GROM GPUGT210
-推荐游玩配置：i7 7700 16GRAM 20GROM GPURTX3080
+推荐游玩配置：i7-7700 16GRAM 20GROM GPURTX3080
 :::
 
 
