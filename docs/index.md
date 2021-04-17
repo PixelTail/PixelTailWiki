@@ -9,8 +9,10 @@ PixelTail Wiki 不包含Minecraft游戏的介绍与说明。如果你想了解Mi
 :::
 
 ::: tip
-PixelTail Wiki 的所有内容除非另有声明，均采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 授权。授权使用。在引用 PixelTail Wiki 中的内容时，请注意遵守许可协议!<br>![](https://minewiki.net/resources/assets/licenses/cc-by-nc-sa.png)
+PixelTail Wiki 的所有内容除非另有声明，均采用 [CC BY-NC-SA 4.0 (知识共享 - 署名 - 非商业性使用 - 相同方式共享 4.0 国际许可协议)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 授权使用。在引用 PixelTail Wiki 中的内容时，请注意遵守许可协议!<br>![](https://minewiki.net/resources/assets/licenses/cc-by-nc-sa.png)
 :::
+
+
 
 ## 如何使用 PixelTail Wiki ？
 
