@@ -22,6 +22,8 @@
 
 最低游玩配置：2核心2线程  4GRAM 10GROM GPUGT210
 推荐游玩配置：i7-7700 16GRAM 20GROM GPURTX3080
+
+整合包中不包含Java，请前往[Java下载](/java/)页面先下载并安装Java
 :::
 
 

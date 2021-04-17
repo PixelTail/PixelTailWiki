@@ -4,6 +4,8 @@
 
 PixelTail Wiki 不包含Minecraft游戏的介绍与说明。如果你想了解Minecraft的知识，你可以前往[Minecraft中文Wiki](https://minecraft-zh.gamepedia.com/Minecraft_Wiki)寻找你想要了解的内容。如果你无法打开这个页面，或者加载很慢，可以试试打开架设在[Biligame的镜像站](https://wiki.biligame.com/mc/Minecraft_Wiki)。
 
+我们有义务告知欧盟用户本页面使用**Cookie**以提升阅读体验。如果您对此有任何异议，请立即关闭本站。
+
 ## 如何使用 PixelTail Wiki ？
 
 #### Wiki的网页界面

@@ -1,5 +1,9 @@
 # PTNW
 
+::: danger 请注意
+**因无法满足 GDPR 条例，我们暂不向欧盟用户提供服务。**
+:::
+
 ## PixelTailNetwork是什么
 
 **PixelTailNetwork** (以下简称「**PTNW**」) 是以服务器运维、网站运维、Minecraft服务端制作、Spigot插件制作等项目为主要业务的PixelTail下属组织，中文名为**像素尾巴互联网络**。PTNW是一个技术导向的组织，在我们的人员筛选中人品是第一位，其次便是技术力。
