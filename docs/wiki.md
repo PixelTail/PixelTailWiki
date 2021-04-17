@@ -63,13 +63,12 @@ Markdown的语法十分简单，常用的标记符号不超过十个，用于日
 
 ### 换行
 
-想要换行，为了兼容考虑建议使用每个Markdown都支持的HTML`<br>`标签。但是如果嫌麻烦，一个简单的回车在VuePress上也是会被认定为换行的。在只能单行输入，但是需要换行效果时，就必须使用`<br>`标签进行换行了。
+想要换行，可以使用HTML的`<br>`标签。
 
 举例:
 |原文本|渲染后|
 | :----------------: | :----------------: |
 |`澜羽<br>nb`|澜羽<br>nb|
-|`澜羽`<br>`nb`|澜羽<br>nb|
 
 ## Markdown 进阶语法
 
@@ -118,7 +117,7 @@ Markdown的语法十分简单，常用的标记符号不超过十个，用于日
 ```Markdown
 <billzhu@pixeltail.cn>
 ```
-渲染效果如下：
+渲染效果如下：<br>
 <billzhu@pixeltail.cn>
 
 #### 带格式化的链接
@@ -128,9 +127,9 @@ I love supporting the **[PixelTail](wiki.pixeltail.org)**.
 This is the *[How to help us with PixelTail Wiki](wiki.pixeltail.org/wiki)*.
 See the section on [`markdown-基本语法`](#markdown-基本语法).
 ```
-渲染效果如下：
-I love supporting **[PixelTail](wiki.pixeltail.org)**.
-This is the *[How to help us with PixelTail Wiki](wiki.pixeltail.org/wiki)*.
+渲染效果如下：<br>
+I love supporting **[PixelTail](wiki.pixeltail.org)**.<br>
+This is the *[How to help us with PixelTail Wiki](wiki.pixeltail.org/wiki)*.<br>
 See the section on [`markdown-基本语法`](#markdown-基本语法).
 
 ### 列表
