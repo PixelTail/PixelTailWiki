@@ -37,7 +37,7 @@ module.exports = config({
         sidebarIcon: false,
         breadcrumbIcon: false,
         repoDisplay: false, 
-        docsRepo: 'BillZhucn/PixelTailWiki',
+        docsRepo: 'PixelTail/PixelTailWiki',
         docsBranch: 'master',
         docsDir: 'docs',
         editLinks: true,
