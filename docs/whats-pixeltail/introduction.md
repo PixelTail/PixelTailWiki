@@ -2,7 +2,7 @@
  
 **PixelTail**是一个Furry主题的群组社交Minecraft服务器，中文名为**像素尾巴**。
 
->Furry，意为兽迷，是一种喜欢动物拟人化的亚文化群体。[点击此处](https://zhuanlan.zhihu.com/p/88669914)可以获得更多关于Furry的介绍。
+>Furry，意为兽迷，是一种喜欢动物拟人化的亚文化群体。[点击此处](https://baike.baidu.com/item/%E5%85%BD%E4%BA%BA/19780742)获得更多关于Furry的介绍。
 
 PixelTail像素尾巴建立于2019年6月，如果你是一只友善的毛茸茸的小动物，那么PixelTail像素尾巴非常欢迎你的到来。
 
