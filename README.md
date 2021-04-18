@@ -2,13 +2,13 @@
 <p align=center>
 <a href="https://vuepress.vuejs.org/"><img src="https://img.shields.io/badge/poweredby-VuePress-brightgreen?style=for-the-badge"></a>
 <a herf="https://vuepress-theme-hope.github.io/"><img src="https://img.shields.io/badge/Theme-hope-brightgreen?style=for-the-badge"></a>
-<a href="https://github.com/BillZhucn/PixelTailWiki/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/badge/LICENSE-CC--BY--NC--SA%204.0-brightgreen?style=for-the-badge"></a>
-<a href="https://travis-ci.com/BillZhucn/PixelTailWiki"><img alt="Travis (.com) branch" src="https://img.shields.io/travis/com/BillZhucn/PixelTailWiki/master?style=for-the-badge"></a>
+<a href="https://github.com/PixelTail/PixelTailWiki/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/badge/LICENSE-CC--BY--NC--SA%204.0-brightgreen?style=for-the-badge"></a>
+<a href="https://travis-ci.com/PixelTail/PixelTailWiki"><img alt="Travis (.com) branch" src="https://img.shields.io/travis/com/PixelTail/PixelTailWiki/master?style=for-the-badge"></a>
 </p>
 
 ### 关于Wiki
 
-**PixelTail Wiki** 由玩家与管理组成员共同撰写而成，可以通过连接：[wiki.pixeltail.cn](https://wiki.pixeltail.cn) 进行访问
+**PixelTail Wiki** 由玩家与管理组成员共同撰写而成，可以通过连接：[wiki.pixeltail.org](https://wiki.pixeltail.org) 进行访问
 
 ### Licence
 
