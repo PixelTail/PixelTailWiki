@@ -32,11 +32,11 @@ PTNW认为满足像素尾巴对技术相关的所有需求是PTNW的首要目标
 
 |名字/ID|成员等级|
 | :-----------: | :---: |
-| 夏至/0wbillw0 |L0|
-| 泯默/Vikot106 |L0|
-| 澜羽/LY_LanYu |L0|
+|夏至/0wbillw0|L0|
+|泯默/Vikot106|L0|
+|澜羽/LY_LanYu|L0|
 |德法/DeFeck|L5|
-| ww|L5|
+|ww|L5|
 
 ## PTNW成员权益与等级
 
