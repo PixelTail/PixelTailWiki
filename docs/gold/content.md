@@ -13,7 +13,9 @@
 |JE版测试地址|`mc.pixeltail.org`|
 |JE版地址|`mc.pixeltail.cn:62334`|
 |网络地图|[`ddns.pixeltail.cn:52334`](http://ddns.pixeltail.cn:52334/)|
+<!---
 |网络地图测试地址|[`GoldenMap.pixeltail.org`](http://goldenmap.pixeltail.org/)|
+--->
 
 
 整合包下载：
