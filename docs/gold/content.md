@@ -22,8 +22,7 @@
 ::: warning 特别注意
 整合包中的ip并非现在使用的服务器ip！请修改成[周目信息](#周目信息)中提到的**JE版地址**！
 
-最低游玩配置：2核心2线程  4GRAM 10GROM GPUGT210
-推荐游玩配置：i7-7700 16GRAM 20GROM GPURTX3080
+最低游玩配置：2核心2线程  4GRAM 10GROM GPUGT210<br>推荐游玩配置：i7-7700 16GRAM 20GROM GPURTX3080
 
 整合包中不包含Java，请前往[Java下载](/java/)页面先下载并安装Java
 :::
