@@ -7,7 +7,7 @@
 目前，获得PixelTail的最低准入资格，需要进行以下步骤：
 
 - 加入腾讯QQ群组「[PixelTail像素尾巴-对外交流](https://jq.qq.com/?_wv=1027&k=VW8qrbbK)」；
-- 按照要求，**通过**[Pixeltail像素尾巴入服审核表](https://www.wenjuan.in/s/UZBZJvL7Pc)的审核。
+- 按照要求，**通过**[Pixeltail像素尾巴入服审核表](https://www.wenjuan.in/s/Eveumu1/)的审核。
 
 > 「**Pixeltail像素尾巴入服审核表**」是服务器现在采用的基本审核问卷，只有通过了该问卷的审核，才能获得「黄金周目」的游玩资格。审核表**每天只能填写一次**共涉及作弊判定、争执避险与特色管理的相关问题共9题，90分以上为通过审核。
 
