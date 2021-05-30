@@ -17,6 +17,7 @@
 |零狼/kiki018|管理/策划|
 |西西/LittleShibeta|策划|
 |宋旭尧/Furry_SongXY|美工/策划|
+|帕帕武/Furry_PPW|技术|
 |盐/yanyanyan|策划|
 |瑞斯虹/Rairis|策划|
 |澜羽/LY_LanYu|技术|
