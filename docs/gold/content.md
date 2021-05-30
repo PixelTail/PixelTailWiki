@@ -13,9 +13,7 @@
 |JE版测试地址|`mc.pixeltail.org`|
 |JE版地址|`mc.pixeltail.cn:62334`|
 |网络地图|[`ddns.pixeltail.cn:52334`](http://ddns.pixeltail.cn:52334/)|
-<!---
-|网络地图测试地址|[`GoldenMap.pixeltail.org`](http://goldenmap.pixeltail.org/)|
---->
+
 
 
 整合包下载：
@@ -28,9 +26,9 @@
 :::
 
 
-1. [完整版](https://210-oss-ufile-cn.glowtree.cn/beehive%2F4%2FPixelTail%E5%85%AD%E5%91%A8%E7%9B%AE%E6%95%B4%E5%90%88%28%E5%AE%8C%E6%95%B4%E7%89%88%29.zip)
-2. [精简版(仅包含必须模组和优化模组)](https://210-oss-ufile-cn.glowtree.cn/beehive%2F4%2FPixelTail%E5%85%AD%E5%91%A8%E7%9B%AE%E6%95%B4%E5%90%88%28%E5%8F%AA%E5%90%AB%E5%BF%85%E8%A6%81%E6%A8%A1%E7%BB%84+%E4%BC%98%E5%8C%96%E6%A8%A1%E7%BB%84%29%20v1.0.zip)
-3. [究极简略版(仅包含必要模组)](https://210-oss-ufile-cn.glowtree.cn/beehive%2F4%2FPixelTail%E5%85%AD%E5%91%A8%E7%9B%AE%E6%95%B4%E5%90%88%28%E5%8F%AA%E5%90%AB%E5%BF%85%E8%A6%81%E6%A8%A1%E7%BB%84%29%20v1.0.zip)
+1. [完整版](https://oss.landnet.cloud/beehive%2F4%2FPixelTail%E5%85%AD%E5%91%A8%E7%9B%AE%E6%95%B4%E5%90%88%28%E5%AE%8C%E6%95%B4%E7%89%88%29.zip)
+2. [精简版(仅包含必须模组和优化模组)](https://oss.landnet.cloud/beehive%2F4%2FPixelTail%E5%85%AD%E5%91%A8%E7%9B%AE%E6%95%B4%E5%90%88%28%E5%8F%AA%E5%90%AB%E5%BF%85%E8%A6%81%E6%A8%A1%E7%BB%84+%E4%BC%98%E5%8C%96%E6%A8%A1%E7%BB%84%29%20v1.0.zip)
+3. [究极简略版(仅包含必要模组)](https://oss.landnet.cloud/beehive%2F4%2FPixelTail%E5%85%AD%E5%91%A8%E7%9B%AE%E6%95%B4%E5%90%88%28%E5%8F%AA%E5%90%AB%E5%BF%85%E8%A6%81%E6%A8%A1%E7%BB%84%29%20v1.0.zip)
 
 ## 模组信息
 点击模组将会前往对应的mcmod或mcbbs页面，各位Tails可以在那里找到详尽的模组相关信息。如果遇到问题问题也可以在对应页面下提问。

@@ -68,7 +68,7 @@ Markdown的语法十分简单，常用的标记符号不超过十个，用于日
 举例:
 |原文本|渲染后|
 | :----------------: | :----------------: |
-|`澜羽<br>nb`|澜羽<br>nb|
+|`xz<br>nb`|xz<br>nb|
 
 ## Markdown 进阶语法
 
@@ -82,10 +82,10 @@ Markdown的语法十分简单，常用的标记符号不超过十个，用于日
 
 例如：
 ```Markdown
-![logo](https://210-oss-ufile-cn.glowtree.cn/beehive%2F4%2Ffavicon.ico "Logo of PixelTail")
+![logo](https://oss.landnet.cloud/beehive%2F4%2Ffavicon.ico "Logo of PixelTail")
 ```
 会被渲染为：
-![logo](https://210-oss-ufile-cn.glowtree.cn/beehive%2F4%2Ffavicon.ico "Logo of PixelTail")
+![logo](https://oss.landnet.cloud/beehive%2F4%2Ffavicon.ico "Logo of PixelTail")
 
 #### 链接图片
 
@@ -373,14 +373,15 @@ See the section on [`markdown-基本语法`](#markdown-基本语法).
 块引用可以包含其他 Markdown 格式的元素。并非所有元素都可以使用，你需要进行实验以查看哪些元素有效。
 ```Markdown
 > #### 后记
-> - 澜羽也nb！
-> - 虹哥<br>德法都nb！
+> - 德法也nb！
+> - 黑月<br>德法都nb！
+>
 > ——某*管理组*的**商业互吹**
 ```
 渲染结果如下:
 > #### 后记
-> - 澜羽也nb！
-> - 虹哥<br>德法都nb！
+> - 德法也nb！
+> - 黑月<br>德法都nb！
 >
 > ——某*管理组*的**商业互吹**
 
