@@ -12,7 +12,7 @@ module.exports = config({
         ]
     ],
     head: [
-        ['link', { rel: 'icon', href: 'https://210-oss-ufile-cn.glowtree.cn/beehive%2F4%2Ffavicon.ico' }]
+        ['link', { rel: 'icon', href: 'https://oss.landnet.cloud/beehive%2F4%2Ffavicon.ico' }]
     ],
     serviceWorker: true,
     markdown: {
