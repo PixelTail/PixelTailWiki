@@ -53,6 +53,7 @@ module.exports = config({
             }
         ],
         sidebar: [
+            ['2nd.html', 'PixelTail 2nd Anniv.'],
             {
                 title: '欢迎来到PixelTail Wiki',
                 collapsable: true,
