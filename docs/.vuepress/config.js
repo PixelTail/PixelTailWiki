@@ -47,8 +47,7 @@ module.exports = config({
             {
                 text: '赞助我们',
                 items: [
-                  { text: 'PixelTail', link: 'https://afdian.net/@PixelTail' },
-                  { text: 'PixelTail-Neon', link: 'https://afdian.net/@PixelTailNeon' }
+                  { text: 'PixelTail', link: 'https://afdian.net/@PixelTail' }
                 ]
             }
         ],
