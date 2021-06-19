@@ -12,7 +12,7 @@
 |游戏模式|模组-综合生存|
 |JE版测试地址|`mc.pixeltail.org`|
 |JE版地址|`mc.pixeltail.cn:62334`|
-|网络地图|[`ddns.pixeltail.cn:52334`](http://ddns.pixeltail.cn:52334/)|
+|网络地图|[`mc.pixeltail.cn:52334`](http://mc.pixeltail.cn:52334/)|
 
 
 
