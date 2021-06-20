@@ -22,8 +22,6 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-        with: 
-          persist-credentials: false
 
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.1.5
@@ -39,7 +37,10 @@ jobs:
         run: yarn vuepress build docs
           
       - name: deploy
-        uses: peaceiris/actions-github-pages@v3.1.12
+        uses: crazy-max/ghaction-github-pages@v2.5.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
           publish_dir: docs/.vuepress/dist
-          github_token: ${{ secrets.TOKEN }}
+          fqdn: wiki.pixeltail.org
+          keep_history: true
