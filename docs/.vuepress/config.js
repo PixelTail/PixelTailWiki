@@ -20,6 +20,7 @@ module.exports = config({
         externalLinks: { target: '_blank' }
     },
     themeConfig: {
+        hostname: 'wiki.pixeltail.org',
         blog: false,
         sidebarDepth: 1,
         pageInfo: false,
