@@ -41,6 +41,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
-          publish_dir: docs/.vuepress/dist
+          build_dir: docs/.vuepress/dist
           fqdn: wiki.pixeltail.org
           keep_history: true
