@@ -1,9 +1,9 @@
-name: Build
+name: Test_build
 
 # Controls when the action will run. 
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
-  push:
+  pull_request:
     branches: [ master ]
 
   # Allows you to run this workflow manually from the Actions tab
@@ -33,12 +33,3 @@ jobs:
           
       - name: build
         run: yarn vuepress build docs
-          
-      - name: deploy
-        uses: crazy-max/ghaction-github-pages@v2.5.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
-        with:
-          build_dir: docs/.vuepress/dist
-          fqdn: wiki.pixeltail.org
-          keep_history: true
