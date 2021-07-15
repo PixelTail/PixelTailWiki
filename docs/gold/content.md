@@ -11,8 +11,8 @@
 |游戏版本|Java版 1.12.2|
 |游戏模式|模组-综合生存|
 |JE版测试地址|`mc.pixeltail.org`|
-|JE版地址|`mc.pixeltail.cn:62334`|
-|网络地图|[`mc.pixeltail.cn:52334`](http://mc.pixeltail.cn:52334/)|
+|JE版地址|`mc.pixeltail.org:62334`|
+|网络地图|[`mc.pixeltail.org:52334`](http://mc.pixeltail.org:52334/)|
 
 
 
