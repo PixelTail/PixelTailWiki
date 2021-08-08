@@ -27,7 +27,7 @@ module.exports = config({
         baseLang: 'zh-CN',
         darkmode: 'auto-switch',
         footer: [
-            display: 备案号：<a href="https://beian.miit.gov.cn">沪ICP备2021004658号-7</a>,
+            display: '备案号：<a href="https://beian.miit.gov.cn">沪ICP备2021004658号-7</a>',
             copyright: 'Copyright © PixelTail'
         ],
         mdEnhance: {
