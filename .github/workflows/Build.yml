@@ -40,5 +40,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
           build_dir: docs/.vuepress/dist
-          fqdn: wiki.pixeltail.org
+          fqdn: pixeltail-wiki.owo.fit
           keep_history: true
