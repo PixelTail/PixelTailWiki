@@ -28,7 +28,7 @@ module.exports = config({
         darkmode: 'auto-switch',
         footer: {
             display: true,
-            content: '备案号：<a href="https://beian.miit.gov.cn">沪ICP备2021004658号-7</a> | Copyright © 2015-2021 <a href="https://www.wingmark.cn">上海翎迹网络科技有限公司</a> | <a href="https://www.pixeltail.cn">PixelTail像素尾巴</a>',
+            content: 'Copyright © 2015-2021 <a href="https://www.wingmark.cn">上海翎迹网络科技有限公司</a> | <a href="https://www.pixeltail.cn">PixelTail像素尾巴</a><br>备案号：<a href="https://beian.miit.gov.cn">沪ICP备2021004658号-7</a>',
             },
         mdEnhance: {
             enableAll: true,
