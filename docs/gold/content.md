@@ -19,8 +19,7 @@
 整合包中不包含Java，请前往[Java下载](/java/)页面先下载并安装Java
 :::
 
-1. [客户端](https://cn-oss-ufile.c.owo.fit/beehive%2F4%2FPixelTail-Gold7.zip
-)
+1. [客户端](https://cn-oss-ufile.c.owo.fit/beehive%2F4%2FPixelTail-Gold7.zip)
 
 ## 模组信息
 点击模组将会前往对应的mcmod或mcbbs页面，各位Tails可以在那里找到详尽的模组相关信息。如果遇到问题问题也可以在对应页面下提问。
