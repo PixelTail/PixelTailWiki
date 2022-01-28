@@ -12,10 +12,10 @@ Pixeltail像素尾巴自三周目起，开始使用「外置登录」以保证Ta
 
 ## 注册皮肤站账号
 
-首先，我们前往**巨兵像素尾巴皮肤站**（<https://skin.pixeltail.cn/>）注册Tails通行证（即外置登录所需的皮肤站账号）。
+首先，我们前往**像素尾巴皮肤站**（<https://skin.pixeltail.cn/>）注册Tails通行证（即外置登录所需的皮肤站账号）。
 
 ::: warning 注意
-进入PixelTail像素尾巴，必须采用「巨兵像素尾巴皮肤站」的外置登录账户。
+进入PixelTail像素尾巴，必须采用「像素尾巴皮肤站」的外置登录账户。
 :::
 
 ![1.png](https://oss.landnet.cloud/beehive%2F4%2F1.png)
