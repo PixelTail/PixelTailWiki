@@ -25,7 +25,6 @@
 |夏至/0wbillw0|服主/技术|
 |泯默/Vikot106|技术/开发|
 |黑月/Kagetora|技术|
-|银魂/Silver|技术/策划|
 |月落/Unrealn|策划/宣传|
 |德法/DeFeck|策划/宣传|
 |ww|技术|
