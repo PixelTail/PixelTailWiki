@@ -28,7 +28,7 @@ module.exports = config({
         darkmode: 'auto-switch',
         footer: {
             display: true,
-            content: 'Copyright © 2015-2021 <a href="https://www.wingmark.cn">上海翎迹网络科技有限公司</a> | <a href="https://www.pixeltail.cn">PixelTail像素尾巴</a><br>备案号：<a href="https://beian.miit.gov.cn">沪ICP备2021004658号-7</a> | <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=37090202001054" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="//cn-oss-sd.c.owo.fit/landentertainment/beianicon.png" style="float:left;"/>鲁公网安备 37090202001054号</a>',
+            content: 'Copyright © 2015-2021 <a href="https://www.wingmark.cn">上海翎迹网络科技有限公司</a> | <a href="https://www.pixeltail.cn">PixelTail像素尾巴</a><br>备案号：<a href="https://beian.miit.gov.cn">沪ICP备2021004658号-7</a> | <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=37090202001054" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="https://cn-oss-sd.c.owo.fit/landentertainment/beianicon.png" style="float:left;"/>鲁公网安备 37090202001054号</a>',
             },
         mdEnhance: {
             enableAll: true,
