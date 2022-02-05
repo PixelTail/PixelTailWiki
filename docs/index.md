@@ -20,7 +20,7 @@ PixelTail Wiki 的所有内容除非另有声明，均采用 [CC BY-NC-SA 4.0 (�
 
 在PixelTail Wiki，界面分为三部分，分别为「**索引栏**」「**正文**」和「**导航栏**」。
 
-![](https://oss.landnet.cloud/beehive%2F4%2FWiki%E5%AF%BC%E8%A7%88.png)
+![](https://cn-oss-sd.c.owo.fit/beehive%2F4%2FWiki%E5%AF%BC%E8%A7%88.png)
 
 「**索引栏**」在页面的左侧，罗列了整个PixelTail Wiki的档案分类与文章标题。「什么是PixelTail」收录了PixelTail的简介与文化；「如何加入Pixeltail」是指引你进入游戏游玩的领航员；「Golden Tails（黄金周目）」与「Neon（霓虹周目）」都详细介绍了不同周目的信息；「PixelTail故事集」则记录下了许多值得记载下来的大事纪与Tails的名单。
 

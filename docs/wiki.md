@@ -82,10 +82,10 @@ Markdown的语法十分简单，常用的标记符号不超过十个，用于日
 
 例如：
 ```Markdown
-![logo](https://oss.landnet.cloud/beehive%2F4%2Ffavicon.ico "Logo of PixelTail")
+![logo](https://cn-oss-sd.c.owo.fit/beehive%2F4%2Ffavicon.ico "Logo of PixelTail")
 ```
 会被渲染为：
-![logo](https://oss.landnet.cloud/beehive%2F4%2Ffavicon.ico "Logo of PixelTail")
+![logo](https://cn-oss-sd.c.owo.fit/beehive%2F4%2Ffavicon.ico "Logo of PixelTail")
 
 #### 链接图片
 
@@ -93,9 +93,9 @@ Markdown的语法十分简单，常用的标记符号不超过十个，用于日
 
 例如：
 ```Markdown
-[![黄金周目](https://oss.landnet.cloud/beehive%2F4%2FGold.PNG)](gold/intr/)
+[![黄金周目](https://cn-oss-sd.c.owo.fit/beehive%2F4%2FGold.PNG)](gold/intr/)
 ```
-[![黄金周目](https://oss.landnet.cloud/beehive%2F4%2FGold.PNG)](gold/intro/)
+[![黄金周目](https://cn-oss-sd.c.owo.fit/beehive%2F4%2FGold.PNG)](gold/intro/)
 
 ### 链接
 
