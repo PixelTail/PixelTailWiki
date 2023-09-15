@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "vuepress": "^1.8.2",
-    "vuepress-theme-hope": "1.27.1"
+    "vuepress-theme-hope": "1.22.0"
   },
   "scripts": {
     "dev": "vuepress dev docs",
