@@ -3,14 +3,7 @@ const { config } = require("vuepress-theme-hope");
 module.exports = config({
     title: 'PixelTail Wiki',
     base: '',
-    plugins: [
-        [
-          '@vuepress/google-analytics',
-          {
-            'ga': 'UA-173388738-2' // UA-00000000-0
-          }
-        ]
-    ],
+    plugins: [],
     head: [
         ['link', { rel: 'icon', href: 'https://cn-oss-sd.c.owo.fit/beehive%2F4%2Ffavicon.ico' }]
     ],
