@@ -31,7 +31,6 @@ jobs:
         run: |
           node --version
           yarn install
-          yarn add -D vuepress-theme-hope@1.27.1
           
       - name: build
         run: yarn build
