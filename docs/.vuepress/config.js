@@ -36,7 +36,7 @@ module.exports = config({
         editLinks: true,
         editLinkText: '帮助我们完善本页面',
         nav: [
-            { text: '皮肤站', link: 'https://skin.2-10.cn/' },
+            { text: '皮肤站', link: 'https://skin.pixeltail.cn/' },
             {
                 text: '赞助我们',
                 items: [
