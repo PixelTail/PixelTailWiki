@@ -1,45 +1,63 @@
-# 欢迎来到 PixelTail Wiki
+---
+home: true
+title: 主页
+heroImage: /assets/icon/logo-1024x1024.png
+bgImage: /1.PNG
+bgImageDark: /1.PNG
+bgImageStyle:
+  background-attachment: fixed
+heroFullScreen: true
+heroText: false
+tagline: <div style="font-size:113.6px"><span class="text"> <font color="#FFFFFF"><b>PIXELTAIL</br>&thinsp;&thinsp;像素尾巴</b></font></span></div>
+actions:
+  - text: 如何加入
+    link: ./getting-start/whitelist.md
+    type: primary
 
-欢迎来到**PixelTail Wiki**（像素尾巴百科），PixelTail的所有档案都会在这里记录并保存。你可以在这里阅读、了解或查询目前所有已公开的PixelTail服务器信息。同时，所有的Tails皆可对该百科进行撰写或编辑，在通过像素尾巴管理组的审核后即可在该站展示出来。
+  - text: 周目信息
+    link: ./seasons/
+  
+  - text: 关于我们
+    link: ./about-us/
 
-PixelTail Wiki 不包含Minecraft游戏的介绍与说明。如果你想了解Minecraft的知识，你可以前往[Minecraft中文Wiki](https://minecraft-zh.gamepedia.com/Minecraft_Wiki)寻找你想要了解的内容。如果你无法打开这个页面，或者加载很慢，可以试试打开架设在[Biligame的镜像站](https://wiki.biligame.com/mc/Minecraft_Wiki)。
+  - text: 关于Wiki
+    link: ./about-Wiki/welcome.md
 
-::: danger 请注意
-我们有义务告知欧盟用户本页面使用**Cookie**以提升阅读体验。如果您对此有任何异议，请立即关闭本站。
-:::
+highlights:
+  - header: 欢迎来到PIXELTAIL 像素尾巴！
+    image: /assets/image/Grass_Block.webp
+    bgImage: /assets/bg/1.PNG
+    bgImageDark: /assets/bg/1.PNG
 
-::: tip
-PixelTail Wiki 的所有内容除非另有声明，均采用 [CC BY-NC-SA 4.0 (知识共享 - 署名 - 非商业性使用 - 相同方式共享 4.0 国际许可协议)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 授权使用。在引用 PixelTail Wiki 中的内容时，请注意遵守许可协议!<br>![](https://minewiki.net/resources/assets/licenses/cc-by-nc-sa.png)
-:::
+    highlights:
+      - title: PixelTail 像素尾巴是一个面向Furry的Minecraft公益服务器。
+      - title: 如果您是一位友善的Furry小动物，那么PixelTail 像素尾巴欢迎您的加入！
+      - title: PixelTail 像素尾巴服务器内没有任何商业性内容，服务器的所有运行与维护均靠OP组与玩家们自发的支持与捐赠。<a href="https://afdian.net/a/PixelTail">了解更多</a>
 
+  - header: 独特的服务器
+    image: /assets/image/Command_block.gif
+    bgImage: /assets/bg/2.PNG
+    bgImageDark: /assets/bg/2.PNG
+    highlights:
+      - title: PixelTail 像素尾巴拥有一套并不麻烦的准入资格审核，目的是为了杜绝作弊，恶意破坏等行为，在服务器内营造一个和谐友善，温馨快乐的游戏氛围。
+      - title: PixelTail 像素尾巴拥有自己的皮肤站，这意味着加入服务器的玩家都可以自己上传、使用自己喜欢的，已公开的皮肤及披风！
+      - title: PixelTail 像素尾巴作为上海翎迹网络科技有限公司旗下社团，会尽力皮肤站用户的数据隐私安全！
 
+  - header: 良好的游戏氛围
+    image: /assets/image/Campfire.gif
+    bgImage: /assets/bg/3.PNG
+    bgImageDark: /assets/bg/3.PNG
+    highlights:
+      - title: PixelTail 像素尾巴致力于在服务器内营造让所有玩家都能感觉在家一样和谐友善，温馨快乐的游戏氛围。
+      - title: PixelTail 像素尾巴从来没有，也永远不会添加地皮、领地、箱子锁等相关功能的插件或模组。我们希望的是服务期内的大家能够没有隔阂地一起发展，一起游玩。
+      - title: PixelTail 像素尾巴通过一套准入审核，游戏内防作弊插件，行为记录插件等方式，管理员与玩家共同游玩，相互监督，一起营造自由良好的游戏环境与和谐友善，温馨快乐的游戏氛围。
 
-## 如何使用 PixelTail Wiki ？
-
-#### Wiki的网页界面
-
-在PixelTail Wiki，界面分为三部分，分别为「**索引栏**」「**正文**」和「**导航栏**」。
-
-![](https://cn-oss-sd.c.owo.fit/beehive%2F4%2FWiki%E5%AF%BC%E8%A7%88.png)
-
-「**索引栏**」在页面的左侧，罗列了整个PixelTail Wiki的档案分类与文章标题。「什么是PixelTail」收录了PixelTail的简介与文化；「如何加入Pixeltail」是指引你进入游戏游玩的领航员；「Golden Tails（黄金周目）」与「Neon（霓虹周目）」都详细介绍了不同周目的信息；「PixelTail故事集」则记录下了许多值得记载下来的大事纪与Tails的名单。
-
-「**正文**」在页面的右侧，占较大面积；在「索引栏」选择一个标题后，文章正文将会在此显示。在正文底部，你将会看到`编辑此页`与`上一篇/下一篇文章标题`的按钮；你可以直接阅读下一篇文章。在正文的右侧是章节书签，你可以点击书签名以快速跳转。
-
-「**导航栏**」在页面的最顶部，左侧是PixelTail Wiki的标题，右侧是`主题`按钮、搜索框和相关页面链接。
-
-::: tip 注：
-网页界面可能因Wiki更新而变化，类似功能不会变化，但当前网页界面可能与图中有所差异。
-:::
-
-#### 编写Wiki内容
-
-PixelTail Wiki 是每一位Tails都可以编辑的百科全书哦。「PixelTail故事集」中关于玩家故事与建筑名录都可以自行书写自己的故事、添加自己的图片，PixelTail Wiki 将会在审核后收录所有认真书写的所有故事。
-
-在开始之前，你需要学习基础的**Markdown语法规则**以完成页面的基本格式编写；具体内容会在下一篇文章「[加入PixelTail Wiki编写](/wiki/)」中详细教学。
-
-使用Markdown语法完成了你的故事后，你可以根据页面提示，点击`编辑此页`进入PixelTail Wiki的Github页面。在注册或登录了Github账号后，你可以创建一个[``Github issue``](https://github.com/BillZhucn/PixelTailWiki/issues/new),或者在相应页面点击`编辑此页`后直接进行修改并发送一个`Pull Request`，像素尾巴管理组将尽快进行审核与反馈。
-
-如果你弄不明白以上步骤，请直接将根据Markdown语法撰写的`txt`文本文档传送给像素尾巴管理组成员并进行进一步联系即可。
-
-你在 PixelTail Wiki 编写的所有内容都会被认为是在 CC BY-NC-SA 4.0 下发布。
+  - header: 丰富的游玩体验
+    image: /assets/image/Orange.webp
+    bgImage: /assets/bg/4.PNG
+    bgImageDark: /assets/bg/4.PNG
+    highlights:
+      - title: PixelTail 像素尾巴目前以原版—模组服交替更换周目的模式运行，每一周目平均运行时长为3个月左右。除开特殊情况，每一周目的地图存档都会被保存下来，后续择时开放参观。
+      - title: PixelTail 像素尾巴尽力做到每一周目，特别是模组周目都能给玩家带来不同的游戏体验。
+      - title: 更多运行模式正在筹划中，敬请期待！
+---
