@@ -1,4 +1,6 @@
-# 欢迎来到PixelTail
+---
+title: 欢迎来到PixelTail
+---
  
 **PixelTail**是一个Furry主题的群组社交Minecraft服务器，中文名为**像素尾巴**。
 
