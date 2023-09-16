@@ -1,14 +1,14 @@
 ---
 home: true
 title: 主页
-heroImage: /assets/icon/logo-1024x1024.png
+heroImage: /assets/icon/logo-512x512.png
 bgImage: /1.PNG
 bgImageDark: /1.PNG
 bgImageStyle:
   background-attachment: fixed
 heroFullScreen: true
-heroText: false
-tagline: <div style="font-size:113.6px"><span class="text"> <font color="#FFFFFF"><b>PIXELTAIL</br>&thinsp;&thinsp;像素尾巴</b></font></span></div>
+heroText: ""
+tagline: <div style="font-size:113.6px"><font color="#FFFFFF"><b>&thinsp;PIXELTAIL</br>&thinsp;&thinsp;像素尾巴</b></font></div>
 actions:
   - text: 如何加入
     link: ./getting-start/whitelist.md
@@ -25,7 +25,7 @@ actions:
 
 highlights:
   - header: 欢迎来到PIXELTAIL 像素尾巴！
-    image: /assets/image/Grass_Block.webp
+    image: /assets/image/Dragon_Head.gif
     bgImage: /assets/bg/1.PNG
     bgImageDark: /assets/bg/1.PNG
 
@@ -53,7 +53,7 @@ highlights:
       - title: PixelTail 像素尾巴通过一套准入审核，游戏内防作弊插件，行为记录插件等方式，管理员与玩家共同游玩，相互监督，一起营造自由良好的游戏环境与和谐友善，温馨快乐的游戏氛围。
 
   - header: 丰富的游玩体验
-    image: /assets/image/Orange.webp
+    image: /assets/image/Conduit_2.gif
     bgImage: /assets/bg/4.PNG
     bgImageDark: /assets/bg/4.PNG
     highlights:
