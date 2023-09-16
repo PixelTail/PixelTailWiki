@@ -7,8 +7,8 @@ bgImageDark: /1.PNG
 bgImageStyle:
   background-attachment: fixed
 heroFullScreen: true
-heroText: ""
-tagline: <div style="font-size:113.6px"><font color="#FFFFFF"><b>&thinsp;PIXELTAIL</br>&thinsp;&thinsp;像素尾巴</b></font></div>
+heroText: P I X E L T A I L 像 素 尾 巴
+tagline: <font color="#FFFFFF">一个Furry专属的Minecraft服务器</font>
 actions:
   - text: 如何加入
     link: ./getting-start/whitelist.md
@@ -32,7 +32,7 @@ highlights:
     highlights:
       - title: PixelTail 像素尾巴是一个面向Furry的Minecraft公益服务器。
       - title: 如果您是一位友善的Furry小动物，那么PixelTail 像素尾巴欢迎您的加入！
-      - title: PixelTail 像素尾巴服务器内没有任何商业性内容，服务器的所有运行与维护均靠OP组与玩家们自发的支持与捐赠。<a href="https://afdian.net/a/PixelTail">了解更多</a>
+      - title: PixelTail 像素尾巴服务器内没有任何商业性内容，服务器的所有运行与维护均靠OP组与玩家们自发的支持与捐赠。<a href="https://afdian.net/a/PixelTail"><u>了解更多</u></a>
 
   - header: 独特的服务器
     image: /assets/image/Command_block.gif
