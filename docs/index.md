@@ -36,7 +36,7 @@ PixelTail Wiki 的所有内容除非另有声明，均采用 [CC BY-NC-SA 4.0 (�
 
 PixelTail Wiki 是每一位Tails都可以编辑的百科全书哦。「PixelTail故事集」中关于玩家故事与建筑名录都可以自行书写自己的故事、添加自己的图片，PixelTail Wiki 将会在审核后收录所有认真书写的所有故事。
 
-在开始之前，你需要学习基础的**Markdown语法规则**以完成页面的基本格式编写；具体内容会在下一篇文章「[加入PixelTail Wiki编写](/wiki)」中详细教学。
+在开始之前，你需要学习基础的**Markdown语法规则**以完成页面的基本格式编写；具体内容会在下一篇文章「[加入PixelTail Wiki编写](/wiki/)」中详细教学。
 
 使用Markdown语法完成了你的故事后，你可以根据页面提示，点击`编辑此页`进入PixelTail Wiki的Github页面。在注册或登录了Github账号后，你可以创建一个[``Github issue``](https://github.com/BillZhucn/PixelTailWiki/issues/new),或者在相应页面点击`编辑此页`后直接进行修改并发送一个`Pull Request`，像素尾巴管理组将尽快进行审核与反馈。
 
