@@ -3,8 +3,7 @@
 <a href="https://vuepress.vuejs.org/"><img src="https://img.shields.io/badge/poweredby-VuePress-brightgreen?style=for-the-badge"></a>
 <a herf="https://vuepress-theme-hope.github.io/"><img src="https://img.shields.io/badge/Theme-hope-brightgreen?style=for-the-badge"></a>
 <a href="https://github.com/PixelTail/PixelTailWiki/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/badge/LICENSE-CC--BY--NC--SA%204.0-brightgreen?style=for-the-badge"></a>
-<a href="https://github.com/PixelTail/PixelTailWiki/actions"><img alt="Github action" src="https://img.shields.io/github/actions/workflow/status/PixelTail/PixelTailWiki/Build.yml?style=for-the-badge&color=brightgreen
-"></a>
+<a href="https://github.com/PixelTail/PixelTailWiki/actions"><img alt="Github action"src="https://img.shields.io/github/actions/workflow/status/PixelTail/PixelTailWiki/Build.yml?style=for-the-badge&color=brightgreen"></a>
 </p>
 
 ### 关于Wiki
