@@ -2,8 +2,8 @@
 home: true
 title: 主页
 heroImage: /assets/icon/logo-512x512.png
-bgImage: /1.PNG
-bgImageDark: /1.PNG
+bgImage: /bg.PNG
+bgImageDark: /bg.PNG
 bgImageStyle:
   background-attachment: fixed
 heroFullScreen: true
@@ -32,7 +32,7 @@ highlights:
     highlights:
       - title: PixelTail 像素尾巴是一个面向Furry的Minecraft公益服务器。
       - title: 如果您是一位友善的Furry小动物，那么PixelTail 像素尾巴欢迎您的加入！
-      - title: PixelTail 像素尾巴服务器内没有任何商业性内容，服务器的所有运行与维护均靠OP组与玩家们自发的支持与捐赠。<a href="https://afdian.net/a/PixelTail"><u>了解更多</u></a>
+      - title: PixelTail 像素尾巴服务器内没有任何商业性内容，服务器的所有运行与维护均靠OP组与玩家们自发的支持与捐赠。<a href="https://afdian.net/a/PixelTail/"><u><b>了解更多</b></u></a>
 
   - header: 独特的服务器
     image: /assets/image/Command_block.gif
@@ -40,8 +40,8 @@ highlights:
     bgImageDark: /assets/bg/2.PNG
     highlights:
       - title: PixelTail 像素尾巴拥有一套并不麻烦的准入资格审核，目的是为了杜绝作弊，恶意破坏等行为，在服务器内营造一个和谐友善，温馨快乐的游戏氛围。
-      - title: PixelTail 像素尾巴拥有自己的皮肤站，这意味着加入服务器的玩家都可以自己上传、使用自己喜欢的，已公开的皮肤及披风！
-      - title: PixelTail 像素尾巴作为上海翎迹网络科技有限公司旗下社团，会尽力皮肤站用户的数据隐私安全！
+      - title: PixelTail 像素尾巴拥有自己的<a href="https://skin.pixeltail.cn/"><u><b>皮肤站</b></u></a>，这意味着加入服务器的玩家都可以自己上传、使用自己喜欢的，已公开的皮肤及披风！
+      - title: PixelTail 像素尾巴作为<a href="https://www.wingmark.cn/"><u><b>上海翎迹网络科技有限公司</b></u></a>旗下社团，会尽力皮肤站用户的数据隐私安全！
 
   - header: 良好的游戏氛围
     image: /assets/image/Campfire.gif

@@ -1,2 +1,15 @@
 // place your custom styles here
 
+.sprite {
+    display: inline-block;
+    background-image: url(//cn-oss-sd.c.tailnet.cn/landentertainment/hz_icon.png);
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    margin-right: 3px;
+}
+
+.sprite.po2 {
+    width: 18px;
+    height: 20px;
+    background-position: -41px 0px;
+}
