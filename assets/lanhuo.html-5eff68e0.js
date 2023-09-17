@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper-c27b6911.js";import{r as t,o as n,c as l,d as r}from"./app-7cd8faf0.js";const c={};function a(i,_){const e=t("BiliBili");return n(),l("div",null,[r(e,{bvid:"BV1GJ411x7h7",autoplay:"true"})])}const u=o(c,[["render",a],["__file","lanhuo.html.vue"]]);export{u as default};
