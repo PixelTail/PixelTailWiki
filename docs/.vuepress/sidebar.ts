@@ -10,5 +10,17 @@ export default sidebar({
     },
     "getting-start/whitelist.md",
     "seasons/",
+    {
+      text: "关于我们",
+      collapsible: true,
+      children:[
+        'about-us/our-story.md',
+        {
+          text: "OP组成员",
+          link: "about-us/op.md",
+        },
+        'about-us/pt-bot.md',
+      ]
+    },
   ],
 });

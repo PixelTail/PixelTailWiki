@@ -87,6 +87,10 @@ export default hopeTheme({
       vPre: true,
       vuePlayground: true,
     },
+    
+    components: {
+      components: ["AudioPlayer"]
+    },
 
     // uncomment these if you want a pwa
     // pwa: {

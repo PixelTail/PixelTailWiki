@@ -78,7 +78,7 @@ PixelTail 像素尾巴目前以原版-模组服交替更换周目的模式运行
 
 ### PixelTail G5
 
-![](https://ice.frostsky.com/2023/09/17/05a9f61e680e374684385b149266af3c.png)
+![](https://ice.frostsky.com/2023/09/17/ed5202e24f5771fb84b31674e3905b42.png)
 
 <!--
 
@@ -95,5 +95,11 @@ PixelTail 像素尾巴目前以原版-模组服交替更换周目的模式运行
 ## 其他周目
 
 ### Neon
+
+<AudioPlayer
+  src="assets/music/The Midnight - Endless Summer.mp3"
+  title="The Midnight - Endless Summer"
+  poster="assets/music/Endless Summer.jpg"
+/>
 
 ![](https://ice.frostsky.com/2023/09/17/92cc057c6ac9226de6dd78d459acc59a.png)

@@ -18,7 +18,7 @@ actions:
     link: ./seasons/
   
   - text: 关于我们
-    link: ./about-us/
+    link: ./about-us/our-story.md
 
   - text: 关于Wiki
     link: ./about-Wiki/welcome.md
