@@ -1,0 +1,99 @@
+---
+title: 周目信息
+---
+
+::: info 注意
+PixelTail 像素尾巴目前以原版-模组服交替更换周目的模式运行，每一周目平均运行时长为3个月左右
+:::
+
+## 当前周目 - PixelTail S12
+
+![](https://ice.frostsky.com/2023/09/17/a9f6f75534d4c707053f2b09fbccebd5.png)
+
+<div style="width:autopx; text-align:center;">
+    <div style="width:auto; *width:100px; margin:0 auto; display:inline-block;">
+        <span style="width:auto; display:block; text-align:left;"><b>服务器地址：mc.pixeltail.cn:62334</b></span>
+        <span style="width:auto; display:block; text-align:left;"><b>备用地址：mc-ct.pixeltail.cn:62334</b></span>
+    </div>
+</div>
+
+<br>
+<br>
+
+本周目任意1.20.1客户端均可进入服务器，因此暂不提供官方整合包。
+
+::: tip 
+嘿玩家们，你们动不动就打开tp的日子结束了 —— 本周目tp指令是有cd的！
+:::
+
+### /warp 地点名列表
+
+使用方式： /warp <地点名>
+
+|地点名|描述|
+| :----------------: | :----------------: |
+|spawn|世界出生点|
+
+### 本周目已发现 bug / 可优化内容 修复状态
+
+<!---- 格式 -[] 内容 ----->
+暂无
+
+### 本周目游玩注意事项
+
+1. 入服后私聊服主或管理员发送游戏 ID 来申请服务器白名单。
+1. 若出现爆炸物可以破坏地形的情况，请立即反馈给夏至！
+
+<br>
+
+## 下一周目 - PixelTail S13
+
+![](https://ice.frostsky.com/2023/09/17/dbaef7a041fa89dfa5737cebca37a585.png)
+
+## 过往周目
+
+### PixelTail S11
+
+![](https://ice.frostsky.com/2023/09/17/8c8ca1c105fa13299b375907c07bf030.png)
+
+### PixelTail S10
+
+![](https://ice.frostsky.com/2023/09/17/27f022e254fbbb71d979c45fb925e820.png)
+
+### PixelTail S9
+
+![](https://ice.frostsky.com/2023/09/17/953e02e8c8f741ec2833e56c021a2356.png)
+
+### PixelTail S8
+
+![](https://ice.frostsky.com/2023/09/17/1229a0af31d53dd0603fea7ce01572ab.png)
+
+### PixelTail G7
+
+![](https://ice.frostsky.com/2023/09/17/7711b061096cc098ddc37431182989e7.png)
+
+### PixelTail G6
+
+![](https://ice.frostsky.com/2023/09/17/c236f033de37d5967ab163a37020d30b.png)
+
+### PixelTail G5
+
+![](https://ice.frostsky.com/2023/09/17/05a9f61e680e374684385b149266af3c.png)
+
+<!--
+
+### PixelTail G4
+
+### PixelTail 3
+
+### PixelTail 2
+
+### PixelTail 1
+
+-->
+
+## 其他周目
+
+### Neon
+
+![](https://ice.frostsky.com/2023/09/17/92cc057c6ac9226de6dd78d459acc59a.png)

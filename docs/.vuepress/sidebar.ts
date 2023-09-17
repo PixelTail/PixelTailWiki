@@ -9,5 +9,6 @@ export default sidebar({
       children: "structure",
     },
     "getting-start/whitelist.md",
+    "seasons/",
   ],
 });

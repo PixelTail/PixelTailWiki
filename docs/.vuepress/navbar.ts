@@ -9,8 +9,10 @@ export default navbar([
       {
         text: "关于Wiki",
         link: "about-Wiki/",
+        prefix: "about-Wiki/",
       },
       'getting-start/whitelist.md',
+      'seasons/',
     ]
   },
   {
