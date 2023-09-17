@@ -102,4 +102,6 @@ PixelTail 像素尾巴目前以原版-模组服交替更换周目的模式运行
   poster="assets/music/Endless Summer.jpg"
 />
 
-![](https://ice.frostsky.com/2023/09/17/92cc057c6ac9226de6dd78d459acc59a.png)
+[![](https://ice.frostsky.com/2023/09/17/552891b8dc0c840aced3fdfed7ab2197.png)](/test/lanhuo.md)
+
+点击图片获取更多信息！

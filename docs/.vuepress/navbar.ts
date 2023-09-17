@@ -8,20 +8,20 @@ export default navbar([
     children: [
       {
         text: "关于Wiki",
-        link: "about-Wiki/",
-        prefix: "about-Wiki/",
+        link: "/about-Wiki/",
+        prefix: "/about-Wiki/",
       },
-      'getting-start/whitelist.md',
-      'seasons/',
+      '/getting-start/whitelist.md',
+      '/seasons/',
       {
         text: "关于我们",
         children:[
-          'about-us/our-story.md',
+          '/about-us/our-story.md',
           {
             text: "OP组成员",
-            link: "about-us/op.md",
+            link: "/about-us/op.md",
           },
-          'about-us/pt-bot.md',
+          '/about-us/pt-bot.md',
         ]
       },
     ]

@@ -89,7 +89,7 @@ export default hopeTheme({
     },
     
     components: {
-      components: ["AudioPlayer"]
+      components: ["AudioPlayer","BiliBili"]
     },
 
     // uncomment these if you want a pwa
