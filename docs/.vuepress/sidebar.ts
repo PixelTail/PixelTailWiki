@@ -9,5 +9,10 @@ export default sidebar({
       children: "structure",
     },
     "getting-start/whitelist.md",
+    {
+      text: "周目信息",
+      prefix: "seasons/",
+      children: "structure",
+    },
   ],
 });
