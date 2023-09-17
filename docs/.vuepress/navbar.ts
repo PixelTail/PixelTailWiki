@@ -8,7 +8,7 @@ export default navbar([
     children: [
       {
         text: "关于Wiki",
-        link: "about-Wiki/welcome.md",
+        link: "about-Wiki/",
       },
       'getting-start/whitelist.md',
     ]

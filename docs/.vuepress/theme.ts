@@ -45,9 +45,8 @@ export default hopeTheme({
   },
 
   plugins: {
-    // You should generate and use your own comment service
     blog: false,
-
+    
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {
       align: true,

@@ -1,5 +1,6 @@
 ---
 title: 欢迎来到 PixelTail Wiki
+order: 1
 ---
 
 欢迎来到**PixelTail Wiki**（像素尾巴百科），PixelTail的所有档案都会在这里记录并保存。你可以在这里阅读、了解或查询目前所有已公开的PixelTail服务器信息。同时，所有的Tails皆可对该百科进行撰写或编辑，在通过像素尾巴管理组的审核后即可在该站展示出来。
