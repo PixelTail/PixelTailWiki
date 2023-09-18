@@ -8,7 +8,15 @@ export default sidebar({
       collapsible: true,
       children: "structure",
     },
-    "getting-start/whitelist.md",
+    {
+      text: "如何加入",
+      link: "getting-start/whitelist.md",
+      collapsible: true,
+      children: [
+        "getting-start/whitelist.md",
+        "getting-start/authlib.md",
+      ],
+    },
     "seasons/",
     {
       text: "关于我们",

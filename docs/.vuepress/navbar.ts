@@ -11,7 +11,13 @@ export default navbar([
         link: "/about-Wiki/",
         prefix: "/about-Wiki/",
       },
-      '/getting-start/whitelist.md',
+      {
+        text: "如何加入",
+        children: [
+          "/getting-start/whitelist.md",
+          "/getting-start/authlib.md",
+        ],
+      },
       '/seasons/',
       {
         text: "关于我们",
