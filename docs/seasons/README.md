@@ -97,11 +97,11 @@ PixelTail 像素尾巴目前以原版-模组服交替更换周目的模式运行
 ### Neon
 
 <AudioPlayer
-  src="assets/music/The Midnight - Endless Summer.mp3"
+  src="https://cn-oss-sd.c.tailnet.cn/wingmark_games/pixeltail/music/The%20Midnight%20-%20Endless%20Summer.mp3"
   title="The Midnight - Endless Summer"
-  poster="assets/music/Endless Summer.jpg"
+  poster="https://ice.frostsky.com/2023/09/18/50557cb43d11d49a2c614f1710399a0f.jpeg"
 />
 
-[![](https://ice.frostsky.com/2023/09/17/552891b8dc0c840aced3fdfed7ab2197.png)](/test/lanhuo.md)
+[![](https://ice.frostsky.com/2023/09/17/552891b8dc0c840aced3fdfed7ab2197.png)](/test/rr.md)
 
 点击图片获取更多信息！
