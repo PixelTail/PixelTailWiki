@@ -26,7 +26,7 @@ export default hopeTheme({
   // sidebar
   sidebar: SidebarConfig,
 
-  footer: 'Copyright © 2015-2021 <a href="https://www.wingmark.cn">上海翎迹网络科技有限公司</a> | <a href="https://www.pixeltail.cn">PixelTail像素尾巴</a><br>备案号：<a href="https://beian.miit.gov.cn">沪ICP备2021004658号-7</a> | <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=37090202001054" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><i class="sprite po2"></i>鲁公网安备 37090202001054号</a>',
+  footer: 'Copyright © 2015-2023 <a href="https://www.wingmark.cn">上海翎迹网络科技有限公司</a> | <a href="https://www.pixeltail.cn">PixelTail像素尾巴</a><br>备案号：<a href="https://beian.miit.gov.cn">沪ICP备2021004658号-7</a> | <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=37090202001054" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><i class="sprite po2"></i>鲁公网安备 37090202001054号</a>',
 
   displayFooter: true,
 
