@@ -2,9 +2,14 @@
 title: 13周目更新日志
 ---
 
-## 15/10/2023 更新
+## 15/10/2023 版本更新
 
 ### 更新ManaMetalMod版本至7.0.6-1
+
+::: info 模组更新注意事项
+请删除客户端mods文件夹中版本号为7.0.5的ManaMetalMod的.jar文件，并在内群下载文件名为`manametalmod-7.0.6-1.jar`的文件放入mods文件夹。
+:::
+
 
 1. **综合修复**：
 
@@ -119,5 +124,11 @@ title: 13周目更新日志
         - 法杖配件只会影响普通攻击的伤害
 
 ::: info 
-[点击这里](https://www.curseforge.com/minecraft/mc-mods/manametal/files/4757274)查看完整更新日志
+[点击这里](https://www.curseforge.com/minecraft/mc-mods/manametal/files/4757274)查看新版本ManaMetalMod完整更新日志
+:::
+
+### 服务器增加自动备份模组
+
+::: warning 注意
+如果自动备份模组导致服务器发生卡顿，请立刻联系夏至/黑月！
 :::
