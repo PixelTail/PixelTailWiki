@@ -30,6 +30,10 @@ export default navbar([
           '/about-us/pt-bot.md',
         ]
       },
+      {
+        text: "S13更新日志",
+        link: "/seasons/change-log-s13.md",
+      },
     ]
   },
   {

@@ -7,7 +7,7 @@ title: 13周目更新日志
 ### 更新ManaMetalMod版本至7.0.6-1
 
 ::: info 模组更新注意事项
-请删除客户端mods文件夹中版本号为`7.0.5`的ManaMetalMod的`.jar`文件，并在内群下载文件名为`manametalmod-7.0.6-1.jar`的文件放入mods文件夹。
+请删除客户端mods文件夹中版本号为`7.0.5`的ManaMetalMod的`.jar`文件，并在内群下载文件名为`manametalmod-7.0.6-1.jar`以及`Aroma1997Core-1.7.10-1.0.2.16.jar`的文件放入mods文件夹。
 :::
 
 
