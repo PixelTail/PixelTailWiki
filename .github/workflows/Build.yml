@@ -37,7 +37,6 @@ jobs:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |-
           npm run docs:build
-          > src/.vuepress/dist/.nojekyll
 
       - name: deploy
         uses: crazy-max/ghaction-github-pages@v4.0.0
