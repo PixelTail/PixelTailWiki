@@ -2,4 +2,4 @@
 title: PixelTail Neon 先导片
 ---
 
-<BiliBili bvid="BV1GJ411x7h7" autoplay=true />
+<BiliBili bvid="BV1uT4y1P7CX" autoplay=true />
