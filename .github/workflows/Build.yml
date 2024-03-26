@@ -24,11 +24,12 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v4.0.2
         with:
-          node-version: 18.17.1
+          node-version: 20.11.1
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
+          yarn set version berry
           yarn install --frozen-lockfile
           
       - name: build
