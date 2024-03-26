@@ -14,5 +14,6 @@ order: 2
 ||ww|技术|
 |<img src="/assets/skull/Sufurrry.webp" width="50" height="50" />|墨雪/Sufurrry|策划|
 |<img src="/assets/skull/Ria_Tube.png" width="50" height="50" />|四水/Ria_Tube|拓展项目|
+|<img src="/assets/skull/n00bt1m.png" width="50" height="50" />|宋旭尧/n00bt1m|社群管理|
 ||看板机|吉祥物|
 
