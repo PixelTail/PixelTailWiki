@@ -2,7 +2,7 @@
 name: 部署文档
 
 on:
-  push:
+  pull_request:
     branches:
       # 确保这是你正在使用的分支名称
       - master
