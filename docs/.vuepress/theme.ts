@@ -64,10 +64,13 @@ export default hopeTheme({
       katex: true,
       mark: true,
       mermaid: true,
+      hint: true,
       playground: {
         presets: ["ts", "vue"],
       },
-      presentation: ["highlight", "math", "search", "notes", "zoom"],
+      revealJs:{ 
+        plugins: ["highlight", "math", "search", "notes", "zoom"], 
+      },
       stylize: [
         {
           matcher: "Recommended",
@@ -89,7 +92,7 @@ export default hopeTheme({
     },
     
     components: {
-      components: ["AudioPlayer","BiliBili"]
+      components: ["AudioPlayer","BiliBili",'VidStack']
     },
 
     // uncomment these if you want a pwa

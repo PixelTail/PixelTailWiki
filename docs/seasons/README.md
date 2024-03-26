@@ -8,11 +8,15 @@ PixelTail 像素尾巴目前以原版-模组服交替更换周目的模式运行
 
 ## 当前周目 - PixelTail Neon
 
+<VidStack src="https://cn-oss-sd.c.tailnet.cn/wingmark_games/pixeltail/music/The%20Midnight%20-%20Endless%20Summer.mp3" title="The Midnight - Endless Summer" />
+
+<!--
 <AudioPlayer
   src="https://cn-oss-sd.c.tailnet.cn/wingmark_games/pixeltail/music/The%20Midnight%20-%20Endless%20Summer.mp3"
   title="The Midnight - Endless Summer"
   poster="https://ice.frostsky.com/2023/09/18/50557cb43d11d49a2c614f1710399a0f.jpeg"
 />
+-->
 
 :::important 资源世界现已开启！
 资源世界定期刷新重置，如果需要大量破坏地形环境获取自然资源，请通过特殊传送门前往资源世界！
@@ -28,7 +32,6 @@ PixelTail 像素尾巴目前以原版-模组服交替更换周目的模式运行
     </div>
 </div>
 
-<br>
 <br>
 
 :::caution TNT爆炸破坏已开启
@@ -114,12 +117,6 @@ PixelTail 像素尾巴目前以原版-模组服交替更换周目的模式运行
 ## 其他周目
 
 ### Neon
-
-<AudioPlayer
-  src="https://cn-oss-sd.c.tailnet.cn/wingmark_games/pixeltail/music/The%20Midnight%20-%20Endless%20Summer.mp3"
-  title="The Midnight - Endless Summer"
-  poster="https://ice.frostsky.com/2023/09/18/50557cb43d11d49a2c614f1710399a0f.jpeg"
-/>
 
 [![](https://ice.frostsky.com/2023/09/17/552891b8dc0c840aced3fdfed7ab2197.png)](/test/rr.md)
 
