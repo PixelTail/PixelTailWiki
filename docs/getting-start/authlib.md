@@ -126,11 +126,13 @@ PixelTail 像素尾巴为了保证玩家的账号安全与服务的稳定，采�
 
 ![](https://ice.frostsky.com/2023/09/19/64ca702bf18a9cbc23f92233aa71784d.png)
 
-本文将演示 [HMCL](https://hmcl.huangyuhui.net/download)、[PCL2](https://afdian.net/p/0164034c016c11ebafcb52540025c377) 和 [BakaXL](https://www.bakaxl.com/) 三款启动器配置外置登录的方法，其他启动器的配置方法类似，本文不再赘述，可以点击本文右侧的目录跳转到对应的启动器。
+本文将演示 [HMCL](#hmcl)、[PCL2](#pcl2)、[BakaXL](#bakaxl)、[CMCL](#cmcl) 和 [FCL](#fcl) 五款启动器配置外置登录的方法，其他启动器的配置方法类似，本文不再赘述，可以点击本文右侧的目录跳转到对应的启动器。
 
 ### HMCL
 
-打开 HMCL 启动器，点击下图中箭头所指的位置添加账户。
+下载地址：https://hmcl.huangyuhui.net/download
+
+打开 HMCL 启动器，并安装好至少一个游戏版本后，点击下图中箭头所指的位置添加账户。
 
 ![](https://ice.frostsky.com/2023/09/19/4d10ad45d3cd77388a4b07aea3a772a6.png)
 
@@ -170,7 +172,9 @@ PixelTail 像素尾巴为了保证玩家的账号安全与服务的稳定，采�
 
 ### PCL2
 
-打开 PCL2 启动器，点击下方的“版本设置”。
+下载地址：https://afdian.net/p/0164034c016c11ebafcb52540025c377
+
+打开 PCL2 启动器，并安装好至少一个游戏版本后，点击下方的“版本设置”。
 
 ![](https://ice.frostsky.com/2023/09/19/b5687ea13f0426c63299acb2426ff141.png)
 
@@ -196,7 +200,9 @@ PixelTail 像素尾巴为了保证玩家的账号安全与服务的稳定，采�
 
 ### BakaXL
 
-打开 BakaXL 启动器，点击图中箭头所指的“账户与档案”。
+下载地址：https://hmcl.huangyuhui.net/download
+
+打开 BakaXL 启动器，并安装好至少一个游戏版本后，点击图中箭头所指的“账户与档案”。
 
 ![](https://ice.frostsky.com/2023/09/19/5422439baa031d29eeda39a32faca420.png)
 
@@ -227,3 +233,84 @@ PixelTail 像素尾巴为了保证玩家的账号安全与服务的稳定，采�
 ![](https://ice.frostsky.com/2023/09/19/a1b1eb4716a5af38438f018af9d13ae7.png)
 
 至此，BakaXL 启动器的外置登录配置完成。
+
+### CMCL
+
+CMCL（Console Minecraft Launcher）是一个在命令行上运行的 Minecraft Java 版启动器，支持 Windows、macOS 与 Linux 系统。
+
+下载地址：https://github.com/MrShieh-X/console-minecraft-launcher
+
+安装并配置好 CMCL 启动器，并安装好至少一个游戏版本后，输入以下指令添加认证服务器并登录账户。
+
+```Shell
+cmcl account --login=authlib --address=https://skin.pixeltail.cn/api/yggdrasil
+```
+
+输入指令后按回车，输入注册皮肤站时使用的邮箱账号后按回车，输入密码后再次按回车登录账户。
+
+![](https://ice.frostsky.com/2024/03/26/5705565af0455c8c5506d2dfb22e716a.png)
+
+登录成功后，使用以下指令选择要启动的版本，如 `1.20.4`。
+
+```Shell
+cmcl -s 1.20.4
+```
+
+使用以下指令启动游戏。
+
+```Shell
+cmcl
+```
+
+选择要使用的账号，输入账号的序号并按回车即可使用外置登录启动游戏。
+
+![](https://ice.frostsky.com/2024/03/26/ae91b69344fd9996930366e81c5b6243.png)
+
+至此，CMCL 启动器的外置登录配置完成。
+
+### FCL
+
+FCL（Fold Craft Launcher）是一个 Android 平台上的 Minecraft Java 版启动器，可在 Android 设备上直接运行 Minecraft Java 版。
+
+下载地址：https://fcl-team.github.io/
+
+打开 FCL 启动器，并安装好至少一个游戏版本后，点击下图中箭头所指的位置添加账户。
+
+![](https://ice.frostsky.com/2024/03/26/068d81557286787d703400b0366990d5.jpeg)
+
+点击左下角的“认证服务器”。
+
+![](https://ice.frostsky.com/2024/03/26/e23233cc48c2ae9dd451fa4302496a33.jpeg)
+
+将地址粘贴到文本框内，点击“下一步”。
+
+![](https://ice.frostsky.com/2024/03/26/4fb772ea3efef8ac6298540c219221dc.jpeg)
+
+![](https://ice.frostsky.com/2024/03/26/2a10c3d6d8c0e6ac9a85c38957d09c67.jpeg)
+
+点击“确认”，即可完成添加认证服务器。
+
+![](https://ice.frostsky.com/2024/03/26/a345411b5a1ac254d1105a8a2fe17006.jpeg)
+
+点击左侧的“像素尾巴用户中心”，添加一个新账号。
+
+![](https://ice.frostsky.com/2024/03/26/ce770596daa5debee5143ba1b1ffdebf.jpeg)
+
+用户名和密码请填写注册皮肤站时使用的邮箱和密码，填写完成后点击“登录”。
+
+![](https://ice.frostsky.com/2024/03/26/99c1f0890b32f7eedc60ddbc7de2ec80.jpeg)
+
+![](https://ice.frostsky.com/2024/03/26/c03e581b3a552c88f502f4235f9324b6.jpeg)
+
+点击右下角的“启动游戏”即可使用外置登录启动游戏。
+
+![](https://ice.frostsky.com/2024/03/26/c7c16fcc43fb04c06fe054d21ffd7e70.jpeg)
+
+至此，FCL 启动器的外置登录配置完成。
+
+#### 游戏无法启动或闪退的解决方法
+
+因设备硬件驱动与系统差异，可能会出现无法启动游戏或游戏闪退的情况，当出现上述情况时，可尝试禁用所有 Mod 或前往设置 - 全局游戏设置 - 渲染器，将选项更改为其他渲染器，并再次尝试启动。若游戏依然无法正常运行，请考虑更换其他启动器或使用其他设备进行游玩。
+
+![](https://ice.frostsky.com/2024/03/26/05acb082c051145619b232c3be660340.jpeg)
+

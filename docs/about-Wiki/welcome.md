@@ -5,7 +5,7 @@ order: 1
 
 欢迎来到**PixelTail Wiki**（像素尾巴百科），PixelTail的所有档案都会在这里记录并保存。你可以在这里阅读、了解或查询目前所有已公开的PixelTail服务器信息。同时，所有的Tails皆可对该百科进行撰写或编辑，在通过像素尾巴管理组的审核后即可在该站展示出来。
 
-PixelTail Wiki 不包含Minecraft游戏的介绍与说明。如果你想了解Minecraft的知识，你可以前往[Minecraft中文Wiki](https://minecraft-zh.gamepedia.com/Minecraft_Wiki)寻找你想要了解的内容。如果你无法打开这个页面，或者加载很慢，可以试试打开架设在[Biligame的镜像站](https://wiki.biligame.com/mc/Minecraft_Wiki)。
+PixelTail Wiki 不包含Minecraft游戏的介绍与说明。如果你想了解Minecraft的知识，你可以前往[Minecraft中文Wiki](https://zh.minecraft.wiki/w/Minecraft_Wiki)寻找你想要了解的内容。如果你无法打开这个页面，或者加载很慢，可以试试打开架设在[Biligame的镜像站](https://wiki.biligame.com/mc/Minecraft_Wiki)。
 
 ::: danger 请注意
 我们有义务告知欧盟用户本页面使用**Cookie**以提升阅读体验。如果您对此有任何异议，请立即关闭本站。
