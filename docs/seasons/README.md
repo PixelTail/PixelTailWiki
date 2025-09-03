@@ -30,7 +30,7 @@ PixelTail Neon周目或将以数据包的形式增加自定义成就，部分测
 主世界末地已限制范围会刷新重置，可以用来建造小黑塔等设施；需要获取末地自然资源，请自行前往资源世界末地！
 :::
 
-![](https://ice.frostsky.com/2024/03/26/6b5f960f9e6a471070b44fd92e83ac7a.png)
+![](https://i.mij.rip/2024/03/26/6b5f960f9e6a471070b44fd92e83ac7a.png)
 
 <div style="width:autopx; text-align:center;">
     <div style="width:auto; *width:100px; margin:0 auto; display:inline-block;">
@@ -83,35 +83,35 @@ PixelTail Neon周目或将以数据包的形式增加自定义成就，部分测
 
 ### PixelTail S12
 
-![](https://ice.frostsky.com/2023/09/17/a9f6f75534d4c707053f2b09fbccebd5.png)
+![](https://i.mij.rip/2023/09/17/a9f6f75534d4c707053f2b09fbccebd5.png)
 
 ### PixelTail S11
 
-![](https://ice.frostsky.com/2023/09/17/8c8ca1c105fa13299b375907c07bf030.png)
+![](https://i.mij.rip/2023/09/17/8c8ca1c105fa13299b375907c07bf030.png)
 
 ### PixelTail S10
 
-![](https://ice.frostsky.com/2023/09/17/27f022e254fbbb71d979c45fb925e820.png)
+![](https://i.mij.rip/2023/09/17/27f022e254fbbb71d979c45fb925e820.png)
 
 ### PixelTail S9
 
-![](https://ice.frostsky.com/2023/09/17/953e02e8c8f741ec2833e56c021a2356.png)
+![](https://i.mij.rip/2023/09/17/953e02e8c8f741ec2833e56c021a2356.png)
 
 ### PixelTail S8
 
-![](https://ice.frostsky.com/2023/09/17/1229a0af31d53dd0603fea7ce01572ab.png)
+![](https://i.mij.rip/2023/09/17/1229a0af31d53dd0603fea7ce01572ab.png)
 
 ### PixelTail G7
 
-![](https://ice.frostsky.com/2023/09/17/7711b061096cc098ddc37431182989e7.png)
+![](https://i.mij.rip/2023/09/17/7711b061096cc098ddc37431182989e7.png)
 
 ### PixelTail G6
 
-![](https://ice.frostsky.com/2023/09/17/c236f033de37d5967ab163a37020d30b.png)
+![](https://i.mij.rip/2023/09/17/c236f033de37d5967ab163a37020d30b.png)
 
 ### PixelTail G5
 
-![](https://ice.frostsky.com/2023/09/17/ed5202e24f5771fb84b31674e3905b42.png)
+![](https://i.mij.rip/2023/09/17/ed5202e24f5771fb84b31674e3905b42.png)
 
 <!--
 
