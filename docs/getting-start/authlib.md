@@ -200,7 +200,7 @@ PixelTail 像素尾巴为了保证玩家的账号安全与服务的稳定，采�
 
 ### BakaXL
 
-下载地址：https://hmcl.huangyuhui.net/download
+下载地址：https://www.bakaxl.com/
 
 打开 BakaXL 启动器，并安装好至少一个游戏版本后，点击图中箭头所指的“账户与档案”。
 
