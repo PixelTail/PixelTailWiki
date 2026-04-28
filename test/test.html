@@ -3,38 +3,69 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name="generator" content="VuePress 2.0.0-rc.12" />
-    <meta name="theme" content="VuePress Theme Hope 2.0.0-rc.44" />
+    <meta name="generator" content="VuePress 2.0.0-rc.28" />
+    <meta name="theme" content="VuePress Theme Hope 2.0.0-rc.106" />
     <style>
-      html {
-        background: var(--bg-color, #fff);
+      :root {
+        --vp-c-bg: #fff;
       }
 
-      html[data-theme="dark"] {
-        background: var(--bg-color, #1d1e1f);
+      [data-theme="dark"] {
+        --vp-c-bg: #1b1b1f;
       }
 
+      html,
       body {
-        background: var(--bg-color);
+        background: var(--vp-c-bg);
       }
     </style>
     <script>
       const userMode = localStorage.getItem("vuepress-theme-hope-scheme");
       const systemDarkMode =
-        window.matchMedia &&
-        window.matchMedia("(prefers-color-scheme: dark)").matches;
+        window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
 
       if (userMode === "dark" || (userMode !== "light" && systemDarkMode)) {
         document.documentElement.setAttribute("data-theme", "dark");
       }
     </script>
-    <meta property="og:url" content="https://wiki.pixeltail.cn/test/test.html"><meta property="og:site_name" content="PixelTail 像素尾巴"><meta property="og:title" content="Test Slide"><meta property="og:type" content="article"><meta property="og:locale" content="zh-CN"><meta property="og:updated_time" content="2023-09-16T17:19:55.000Z"><meta property="article:modified_time" content="2023-09-16T17:19:55.000Z"><script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Test Slide","image":[""],"dateModified":"2023-09-16T17:19:55.000Z","author":[]}</script><link rel="icon" href="/assets/icon/logo-64x64.png"><title>Test Slide | PixelTail 像素尾巴</title><meta name="description" content="">
-    <link rel="preload" href="/assets/style-D2oolgbJ.css" as="style"><link rel="stylesheet" href="/assets/style-D2oolgbJ.css">
-    <link rel="modulepreload" href="/assets/app-DinApzDR.js"><link rel="modulepreload" href="/assets/test.html-DD7o1Kxi.js"><link rel="modulepreload" href="/assets/plugin-vue_export-helper-DlAUqK2U.js">
-    <link rel="prefetch" href="/assets/index.html-1XbiOQKV.js" as="script"><link rel="prefetch" href="/assets/copyright.html-x2Ta5yig.js" as="script"><link rel="prefetch" href="/assets/welcome.html-DTA-Ag61.js" as="script"><link rel="prefetch" href="/assets/op.html-Cyi2HRV8.js" as="script"><link rel="prefetch" href="/assets/our-story.html-DC6Qt_yT.js" as="script"><link rel="prefetch" href="/assets/pt-bot.html-TwJntlSs.js" as="script"><link rel="prefetch" href="/assets/authlib.html-Ds4xHBpG.js" as="script"><link rel="prefetch" href="/assets/whitelist.html-2oLu7KB-.js" as="script"><link rel="prefetch" href="/assets/index.html-DFtXvQL1.js" as="script"><link rel="prefetch" href="/assets/Season-instructions.html-B9BhhlAq.js" as="script"><link rel="prefetch" href="/assets/change-log-s13.html-F-o8FzTT.js" as="script"><link rel="prefetch" href="/assets/rr.html-BmMvZ4os.js" as="script"><link rel="prefetch" href="/assets/introduction.html-DdIv_jhH.js" as="script"><link rel="prefetch" href="/assets/rules.html-D7vgR6ML.js" as="script"><link rel="prefetch" href="/assets/404.html-cBcgdAel.js" as="script"><link rel="prefetch" href="/assets/index.html-BOH-q0-K.js" as="script"><link rel="prefetch" href="/assets/index.html-BNGspL_I.js" as="script"><link rel="prefetch" href="/assets/index.html-CGPqMGGt.js" as="script"><link rel="prefetch" href="/assets/index.html-CuMrUc37.js" as="script"><link rel="prefetch" href="/assets/index.html-DEIp4U9f.js" as="script"><link rel="prefetch" href="/assets/prod-LOxfJaJx.js" as="script"><link rel="prefetch" href="/assets/prod-LOxfJaJx.js" as="script"><link rel="prefetch" href="/assets/vidstack-audio-DOwBzU8u.js" as="script"><link rel="prefetch" href="/assets/vidstack-video-CHaFACT7.js" as="script"><link rel="prefetch" href="/assets/vidstack-dash-Dxh_BjL5.js" as="script"><link rel="prefetch" href="/assets/vidstack-hls-B58NXB4M.js" as="script"><link rel="prefetch" href="/assets/vidstack-vimeo-uFQGiwLl.js" as="script"><link rel="prefetch" href="/assets/vidstack-BTBUzdbF-Cao5mZMB.js" as="script"><link rel="prefetch" href="/assets/vidstack-youtube-B3wYLrX2.js" as="script"><link rel="prefetch" href="/assets/vidstack-DscYSLiW-CA6XwpqT.js" as="script"><link rel="prefetch" href="/assets/vidstack-54Jpr2Lq-BIefcII9.js" as="script"><link rel="prefetch" href="/assets/prod-LOxfJaJx.js" as="script"><link rel="prefetch" href="/assets/prod-LOxfJaJx.js" as="script"><link rel="prefetch" href="/assets/vidstack-BP-l85ST-C5GaT3sb.js" as="script"><link rel="prefetch" href="/assets/vidstack-player-default-layout-RHHoRPMj.js" as="script"><link rel="prefetch" href="/assets/vidstack-player-ui-CdGf4QSd.js" as="script"><link rel="prefetch" href="/assets/plyr-layout-BN69fnZC.js" as="script"><link rel="prefetch" href="/assets/vidstack-CyVF_YzU-Cz3rQO3J.js" as="script"><link rel="prefetch" href="/assets/auto-BsDwVDIX.js" as="script"><link rel="prefetch" href="/assets/index-CdJPjO4I.js" as="script"><link rel="prefetch" href="/assets/flowchart-A_x2_3Xb.js" as="script"><link rel="prefetch" href="/assets/mermaid.core-Dkhv_cO-.js" as="script"><link rel="prefetch" href="/assets/reveal.esm-CYbl4_PU.js" as="script"><link rel="prefetch" href="/assets/markdown.esm-D3c1teHh.js" as="script"><link rel="prefetch" href="/assets/highlight.esm-UsqGfS9W.js" as="script"><link rel="prefetch" href="/assets/math.esm-Cgto3ffo.js" as="script"><link rel="prefetch" href="/assets/search.esm-BPaPUgSs.js" as="script"><link rel="prefetch" href="/assets/notes.esm-CriXa66Y.js" as="script"><link rel="prefetch" href="/assets/zoom.esm-CFEecXZN.js" as="script"><link rel="prefetch" href="/assets/vue-repl-nOKYZtG8.js" as="script"><link rel="prefetch" href="/assets/codemirror-editor-BuwUBAR2.js" as="script"><link rel="prefetch" href="/assets/photoswipe.esm-D2Nf-uDI.js" as="script">
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Test Slide","image":[""],"dateModified":"2026-04-28T16:34:44.000Z","author":[]}</script><meta property="og:url" content="https://wiki.pixeltail.cn/test/test.html"><meta property="og:site_name" content="PixelTail 像素尾巴"><meta property="og:title" content="Test Slide"><meta property="og:type" content="article"><meta property="og:locale" content="zh-CN"><meta property="og:updated_time" content="2026-04-28T16:34:44.000Z"><meta property="article:modified_time" content="2026-04-28T16:34:44.000Z"><link rel="icon" href="/assets/icon/logo-64x64.png"><title>Test Slide | PixelTail 像素尾巴</title><meta name="description" content="">
+    <link rel="preload" href="/assets/style-BhHxNiGe.css" as="style"><link rel="stylesheet" href="/assets/style-BhHxNiGe.css">
+    <link rel="modulepreload" href="/assets/app-Dj040sQX.js"><link rel="modulepreload" href="/assets/runtime-core.esm-bundler-Bmw0v5mD.js"><link rel="modulepreload" href="/assets/test-BlPxqhIq.js"><link rel="modulepreload" href="/assets/plugin-vue_export-helper-CDQIAITX.js">
+    <link rel="prefetch" href="/assets/docs-wu4cJKBh.js" as="script"><link rel="prefetch" href="/assets/copyright-CwGyyyKe.js" as="script"><link rel="prefetch" href="/assets/welcome-BXgAhTPh.js" as="script"><link rel="prefetch" href="/assets/op-CVart5Hx.js" as="script"><link rel="prefetch" href="/assets/our-story-D_VeHZ-G.js" as="script"><link rel="prefetch" href="/assets/pt-bot-p2bfhZ3l.js" as="script"><link rel="prefetch" href="/assets/authlib-B-Bp6bWD.js" as="script"><link rel="prefetch" href="/assets/whitelist-CoctrM6H.js" as="script"><link rel="prefetch" href="/assets/README-Cm09ByQf.js" as="script"><link rel="prefetch" href="/assets/Season-instructions-C-GhzFWw.js" as="script"><link rel="prefetch" href="/assets/change-log-s13-SMTzlnQE.js" as="script"><link rel="prefetch" href="/assets/rr-CwdA2R_3.js" as="script"><link rel="prefetch" href="/assets/introduction-B214sHPb.js" as="script"><link rel="prefetch" href="/assets/rules-C77iHRIa.js" as="script"><link rel="prefetch" href="/assets/404.html-A7rSNk_h.js" as="script"><link rel="prefetch" href="/assets/index.html-BRdBBk9q.js" as="script"><link rel="prefetch" href="/assets/index.html-Dya9887n.js" as="script"><link rel="prefetch" href="/assets/index.html-BUJF0efL.js" as="script"><link rel="prefetch" href="/assets/index.html-BB1LBQda.js" as="script"><link rel="prefetch" href="/assets/index.html-C3A1XX7p.js" as="script"><link rel="prefetch" href="/assets/auto-CWsBS7Zc.js" as="script"><link rel="prefetch" href="/assets/echarts-lw1tkzn-.js" as="script"><link rel="prefetch" href="/assets/flowchart-DxW3ff4x.js" as="script"><link rel="prefetch" href="/assets/mermaid.esm.min-KJcGuJtp.js" as="script"><link rel="prefetch" href="/assets/vue-repl-C0lZosoz.js" as="script"><link rel="prefetch" href="/assets/codemirror-editor-Bh4GexW6.js" as="script"><link rel="prefetch" href="/assets/reveal-C9aE1hAy.js" as="script"><link rel="prefetch" href="/assets/markdown-CxyFptCb.js" as="script"><link rel="prefetch" href="/assets/highlight-weVgaXTx.js" as="script"><link rel="prefetch" href="/assets/math-CVCA-hbc.js" as="script"><link rel="prefetch" href="/assets/search-BziCPand.js" as="script"><link rel="prefetch" href="/assets/notes-D8XYVss5.js" as="script"><link rel="prefetch" href="/assets/zoom-DnD86HPL.js" as="script"><link rel="prefetch" href="/assets/photoswipe.esm-DIYlOTrH.js" as="script"><link rel="prefetch" href="/assets/vidstack-player-CesoW291.js" as="script">
   </head>
   <body>
-    <div id="app"><!--[--><div class="vp-reveal-page"><div><div class="vp-reveal"><div class="reveal reveal-viewport"><div class="slides"><section data-markdown><script type="text/template"></script></section></div></div><div class="loading-icon-wrapper reveal-loading" style="display:flex;align-items:center;justify-content:center;height:400px;"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" preserveAspectRatio="xMidYMid" viewBox="25 25 50 50"><animateTransform attributeName="transform" type="rotate" dur="2s" keyTimes="0;1" repeatCount="indefinite" values="0;360"></animateTransform><circle cx="50" cy="50" r="20" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"><animate attributeName="stroke-dasharray" dur="1.5s" keyTimes="0;0.5;1" repeatCount="indefinite" values="1,200;90,200;1,200"></animate><animate attributeName="stroke-dashoffset" dur="1.5s" keyTimes="0;0.5;1" repeatCount="indefinite" values="0;-35px;-125px"></animate></circle></svg></div></div></div><div class="vp-reveal-menu"><button type="button" class="menu-button"><span class="icon"></span></button><button type="button" class="back-button"><svg xmlns="http://www.w3.org/2000/svg" class="icon back-icon" viewBox="0 0 1024 1024" fill="currentColor" aria-label="back icon" name="back"><path d="M1014.749 449.156v125.688H260.626l345.64 345.64-89.239 89.237L19.307 512l497.72-497.721 89.238 89.238-345.64 345.64h754.124z"></path></svg></button><button type="button" class="home-button"><svg xmlns="http://www.w3.org/2000/svg" class="icon home-icon" viewBox="0 0 1024 1024" fill="currentColor" aria-label="home icon" name="home"><path d="M780.106 420.978L506.994 147.866 233.882 420.978h.045v455.11H780.06v-455.11h.046zm90.977 90.976V876.09a91.022 91.022 0 01-91.023 91.022H233.927a91.022 91.022 0 01-91.022-91.022V511.954l-67.22 67.175-64.307-64.307 431.309-431.31c35.498-35.498 93.115-35.498 128.614 0l431.309 431.31-64.307 64.307L871.083 512z"></path></svg></button></div></div><!--[--><!----><!--]--><!--]--></div>
-    <script type="module" src="/assets/app-DinApzDR.js" defer></script>
+    <div id="app"><!--[--><div class="vp-reveal-page"><div><div class="vp-reveal"><div class="reveal reveal-viewport" id="v-0"><div class="slides"><section data-markdown><script type="text/template">
+<!-- .slide: data-transition="slide" -->
+
+<span class="text-gradient"><b>PixelTail 13周目</b></span>
+
+<!-- .element: class="r-fit-text" -->
+
+--
+
+<!-- .slide: data-auto-animate -->
+### 游戏版本
+
+1.7.10
+<!-- .element: class="fragment fade-in" -->
+
+<br><br>
+
+### 主要模组
+
+- M3 - 魔法金属
+<!-- .element: class="fragment fade-in" -->
+
+- TC - 神秘时代4
+<!-- .element: class="fragment fade-in" -->
+
+---
+
+<!-- .element: class="r-fit-text" -->
+
+<div style="font-size:150px"><span class="text-gradient"><b>PixelTail 13周目</b></span></div><br>
+<span class="text-gradient">我们不见不散~！</span>
+</script></section></div></div><div style="display:flex;align-items:center;justify-content:center;height:400px;" class="reveal-loading"><span style="--loading-icon: url(&quot;data:image/svg+xml;charset=utf8,%3Csvg preserveAspectRatio=%22xMidYMid%22 viewBox=%2225 25 50 50%22%3E%3CanimateTransform attributeName=%22transform%22 type=%22rotate%22 dur=%222s%22 keyTimes=%220;1%22 repeatCount=%22indefinite%22 values=%220;360%22%3E%3C/animateTransform%3E%3Ccircle cx=%2250%22 cy=%2250%22 r=%2220%22 fill=%22none%22 stroke=%22currentColor%22 stroke-width=%224%22 stroke-linecap=%22round%22%3E%3Canimate attributeName=%22stroke-dasharray%22 dur=%221.5s%22 keyTimes=%220;0.5;1%22 repeatCount=%22indefinite%22 values=%221,200;90,200;1,200%22%3E%3C/animate%3E%3Canimate attributeName=%22stroke-dashoffset%22 dur=%221.5s%22 keyTimes=%220;0.5;1%22 repeatCount=%22indefinite%22 values=%220;-35px;-125px%22%3E%3C/animate%3E%3C/circle%3E%3C/svg%3E&quot;);--icon-size: 48px;display: inline-block;width: var(--icon-size);height: var(--icon-size);background-color: currentcolor;-webkit-mask-image: var(--loading-icon);mask-image: var(--loading-icon)"></span></div></div></div><div class="vp-reveal-menu"><button type="button" class="menu-button"><span class="icon"></span></button><button type="button" class="back-button"><svg xmlns="http://www.w3.org/2000/svg" class="back-icon" viewBox="0 0 1024 1024" fill="currentColor"><path d="M1014.749 449.156v125.688H260.626l345.64 345.64-89.239 89.237L19.307 512l497.72-497.721 89.238 89.238-345.64 345.64h754.124z"></path></svg></button><button type="button" class="home-button"><svg xmlns="http://www.w3.org/2000/svg" class="icon home-icon" viewBox="0 0 1024 1024" fill="currentColor"><path d="M780.106 420.978L506.994 147.866 233.882 420.978h.045v455.11H780.06v-455.11h.046zm90.977 90.976V876.09a91.022 91.022 0 01-91.023 91.022H233.927a91.022 91.022 0 01-91.022-91.022V511.954l-67.22 67.175-64.307-64.307 431.309-431.31c35.498-35.498 93.115-35.498 128.614 0l431.309 431.31-64.307 64.307L871.083 512z"></path></svg></button></div></div><!--[--><!----><!--[--><!--]--><!--]--><!--]--></div>
+    <script type="module" src="/assets/app-Dj040sQX.js" defer></script>
   </body>
 </html>
