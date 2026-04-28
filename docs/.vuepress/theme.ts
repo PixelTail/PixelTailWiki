@@ -5,7 +5,61 @@ import SidebarConfig from "./sidebar.js";
 export default hopeTheme({
   hostname: "https://wiki.pixeltail.cn",
 
-  iconAssets: "fontawesome-with-brands",
+  plugins: {
+    icon: {
+      assets: "fontawesome-with-brands",
+    },
+
+    blog: false,
+
+    components: {
+      components: ["BiliBili", "VidStack"],
+    },
+  },
+
+  // All features are enabled for demo, only preserve features you need here
+  markdown: {
+    align: true,
+    attrs: true,
+    chartjs: true,
+    codeTabs: true,
+    demo: true,
+    echarts: true,
+    figure: true,
+    flowchart: true,
+    gfm: true,
+    hint: true,
+    imgLazyload: true,
+    imgSize: true,
+    include: true,
+    math: true,
+    mark: true,
+    mermaid: true,
+    playground: {
+      presets: ["ts", "vue"],
+    },
+    revealjs: {
+      plugins: ["highlight", "math", "search", "notes", "zoom"],
+    },
+    stylize: [
+      {
+        matcher: "Recommended",
+        replacer: ({ tag }) => {
+          if (tag === "em")
+            return {
+              tag: "Badge",
+              attrs: { type: "tip" },
+              content: "Recommended",
+            };
+        },
+      },
+    ],
+    sub: true,
+    sup: true,
+    tabs: true,
+    vPre: true,
+    vuePlayground: true,
+  },
 
   favicon: "/assets/icon/logo-64x64.png",
   logo: "/assets/icon/logo-64x64.png",
@@ -44,58 +98,7 @@ export default hopeTheme({
     editLink: "在 GitHub 上编辑此页",
   },
 
-  plugins: {
-    blog: false,
-    
-    // All features are enabled for demo, only preserve features you need here
-    mdEnhance: {
-      align: true,
-      attrs: true,
-      chart: true,
-      codetabs: true,
-      demo: true,
-      echarts: true,
-      figure: true,
-      flowchart: true,
-      gfm: true,
-      imgLazyload: true,
-      imgSize: true,
-      include: true,
-      katex: true,
-      mark: true,
-      mermaid: true,
-      hint: true,
-      playground: {
-        presets: ["ts", "vue"],
-      },
-      revealJs:{ 
-        plugins: ["highlight", "math", "search", "notes", "zoom"], 
-      },
-      stylize: [
-        {
-          matcher: "Recommended",
-          replacer: ({ tag }) => {
-            if (tag === "em")
-              return {
-                tag: "Badge",
-                attrs: { type: "tip" },
-                content: "Recommended",
-              };
-          },
-        },
-      ],
-      sub: true,
-      sup: true,
-      tabs: true,
-      vPre: true,
-      vuePlayground: true,
-    },
-    
-    components: {
-      components: ["AudioPlayer","BiliBili",'VidStack']
-    },
-
-    // uncomment these if you want a pwa
+  // uncomment these if you want a pwa
     // pwa: {
     //   favicon: "/favicon.ico",
     //   cacheHTML: true,
@@ -151,5 +154,4 @@ export default hopeTheme({
     //     ],
     //   },
     // },
-  },
 });
