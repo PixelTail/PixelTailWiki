@@ -1,1 +1,1 @@
-<BiliBili bvid="BV1UT42167xb" autoplay=true />
+<BiliBili bvid="BV1UT42167xb" autoplay/>
