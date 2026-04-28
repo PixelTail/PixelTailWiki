@@ -1,6 +1,6 @@
 ---
 title: Test Slide
-layout: Slide
+layout: Slides
 ---
 
 @slidestart
