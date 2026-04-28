@@ -1,10 +1,8 @@
-
 name: 部署文档
 
 on:
   pull_request:
     branches:
-      # 确保这是你正在使用的分支名称
       - master
 
 permissions:
@@ -21,8 +19,6 @@ jobs:
           # 如果你文档需要 Git 子模块，取消注释下一行
           # submodules: true
 
-
-
       - name: 设置 Node.js
         uses: actions/setup-node@v3
         with:
@@ -37,4 +33,3 @@ jobs:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |-
           npm run docs:build
-          > src/.vuepress/dist/.nojekyll
