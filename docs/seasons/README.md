@@ -3,10 +3,22 @@ title: 周目信息
 ---
 
 ::: info 注意
-PixelTail 像素尾巴目前以原版-模组服交替更换周目的模式运行，每一周目平均运行时长为3个月左右
+PixelTail 像素尾巴目前以模组服交替更换周目与不删档原版服（永久周目 Neon）并行的模式运行，每一模组周目平均运行时长为6个月左右。<br>与此同时，PixelTail 像素尾巴仅支持 [PixelTail 皮肤站外置登录](/getting-start/whitelist.md#外置登录)！
 :::
 
-## 当前周目 - PixelTail Neon
+## 当前周目 - PixelTail S15
+
+<!--
+![]()
+-->
+
+:::info 提示
+本周目需要重新申请白名单，请链接服务器后看到 "You are not whitelisted on this server." 提示后，向管理员发送游戏id申请白名单！
+:::
+
+当前周目为1.20.1模组周目，请前往服务器群文件下载整合包。
+
+## 永久周目 - PixelTail Neon
 
 <VidStack src="https://cn-oss-sd.c.tailnet.cn/wingmark_games/pixeltail/music/The%20Midnight%20-%20Endless%20Summer.mp3" title="The Midnight - Endless Summer" />
 
@@ -68,14 +80,13 @@ PixelTail Neon周目或将以数据包的形式增加自定义成就，部分测
 
 <br>
 
+## 过往周目
+
 <!--
-## 下一周目 - PixelTail S14
+### PixelTail S14
 
 ![]()
-
 -->
-
-## 过往周目
 
 ### PixelTail S13
 
@@ -124,11 +135,3 @@ PixelTail Neon周目或将以数据包的形式增加自定义成就，部分测
 ### PixelTail 1
 
 -->
-
-## 其他周目
-
-### Neon
-
-[![](https://ice.frostsky.com/2023/09/17/552891b8dc0c840aced3fdfed7ab2197.png)](/test/rr.md)
-
-点击图片获取更多信息！
